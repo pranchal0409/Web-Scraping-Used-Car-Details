@@ -1,0 +1,938 @@
+,Year of Car,Make of Car,Model,Price of Car,Location of Car,Kilometers,Diseal/Petrol,Body,Owner
+0,2014,Maruti Suzuki,Wagon R 1.0 VXI,3 Lakhs,Delhi,"47,951 Kms",Petrol,Hatchback,1st Owner
+1,2014,Maruti Suzuki,Wagon R LXI,3 Lakhs,Ghaziabad,"47,951 Kms",Petrol,Hatchback,2nd Owner
+2,2013,Hyundai,I10 MAGNA 1.2,3 Lakhs,Noida,"33,375 Kms",Petrol,Hatchback,1st Owner
+3,2013,Hyundai,I10 MAGNA 1.2,3 Lakhs,Noida,"33,375 Kms",Petrol,Hatchback,1st Owner
+4,2012,Hyundai,I10 MAGNA 1.2,3 Lakhs,Ghaziabad,"44,000 Kms",Petrol,Hatchback,1st Owner
+5,2012,Nissan,Sunny XV DIESEL,2 Lakhs,Faridabad,1.37 Lakhs Kms,Diesel,SUV,2nd Owner
+6,2013,Renault,Duster 85 PS RXE DIE...,3.25 Lakhs,Delhi,"93,000 Kms",Diesel,SUV,1st Owner
+7,2014,Mahindra,Quanto C8,3.5 Lakhs,Gurgaon,"76,949 Kms",Diesel,SUV,1st Owner
+8,2016,Mahindra,Kuv100 K2 6 STR,3.75 Lakhs,Noida,"39,477 Kms",Petrol,SUV,1st Owner
+9,2013,Renault,Duster RXL PLUS DIES...,4.25 Lakhs,Gurgaon,"90,923 Kms",Diesel,SUV,1st Owner
+10,2013,Toyota,Fortuner 3.0 AT 4X2,12.7 Lakhs,Delhi,1.38 Lakhs Kms,Diesel,SUV,1st Owner
+11,2013,Hyundai,Grand I10 SPORTZ 1.2...,4 Lakhs,Faridabad,"77,000 Kms",Petrol,Hatchback,1st Owner
+12,2011,Toyota,Fortuner 2.8 4WD MT,9.5 Lakhs,Delhi,"94,000 Kms",Diesel,SUV,2nd Owner
+13,2010,Hyundai,I10 MAGNA 1.2,1.75 Lakhs,Faridabad,"56,000 Kms",Petrol,Hatchback,1st Owner
+14,2011,Hyundai,Santro Xing GLS,2.2 Lakhs,Gurgaon,"57,124 Kms",Petrol,Hatchback,1st Owner
+15,2012,Hyundai,I10(2010_2017) SPORT...,3.35 Lakhs,Delhi,"17,800 Kms",Petrol,Hatchback,1st Owner
+16,2015,Maruti Suzuki,Wagon R 1.0  LXI CNG,3.45 Lakhs,Faridabad,"63,246 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+17,2015,Maruti Suzuki,Wagon R 1.0  LXI CNG,3.45 Lakhs,Faridabad,"63,246 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+18,2016,Mahindra,Kuv100(2016_2017) K6...,3.5 Lakhs,Delhi,"62,000 Kms",Diesel,SUV,2nd Owner
+19,2017,Maruti Suzuki,Eeco 5 STR CNG WITH ...,3.55 Lakhs,Noida,"42,000 Kms","CNG
+                                        +  CNG Kit",Van,1st Owner
+20,2009,Honda,City  1.5 V AT,3.8 Lakhs,Delhi,"90,534 Kms",Petrol,Sedan,1st Owner
+21,2016,Mahindra,Kuv100  K2 D 6 STR,4.25 Lakhs,Delhi,"12,235 Kms",Diesel,SUV,1st Owner
+22,2013,Chevrolet,Tavera  LT 9 STR,4.25 Lakhs,Delhi,"99,000 Kms",Diesel,MUV,1st Owner
+23,2015,Honda,Jazz  1.2 SVMT,4.6 Lakhs,Delhi,"42,229 Kms",Petrol,Hatchback,1st Owner
+24,2018,Hyundai,Grand I10 MAGNA 1.2 ...,4.65 Lakhs,Noida,"64,000 Kms",Petrol,Hatchback,1st Owner
+25,2017,Maruti Suzuki,Celerio  ZXI AMT,4.75 Lakhs,Delhi,"16,000 Kms",Petrol,Hatchback,1st Owner
+26,2014,Skoda,Rapid 1.6 TDI MT AMB...,4.75 Lakhs,Delhi,"44,171 Kms",Diesel,Sedan,1st Owner
+27,2015,Hyundai,I20(2015_2017) MAGNA...,4.95 Lakhs,Gurgaon,"41,443 Kms",Petrol,Hatchback,1st Owner
+28,2018,Maruti Suzuki,Swift(2018_2019)  LDI,4.95 Lakhs,Delhi,"62,000 Kms",Diesel,Hatchback,1st Owner
+29,2014,Nissan,Sunny  XV PETROL,5 Lakhs,Delhi,"52,000 Kms",Petrol,Sedan,1st Owner
+30,2014,Nissan,Terrano  XL D,4.5 Lakhs,Delhi,"67,841 Kms",Diesel,SUV,1st Owner
+31,2013,Renault,Duster  110 PS RXZ,4.5 Lakhs,Delhi,"80,000 Kms",Diesel,SUV,1st Owner
+32,2012,Skoda,Yeti AMBITION 2.0 TD...,4.65 Lakhs,Delhi,"79,211 Kms",Diesel,SUV,1st Owner
+33,2014,Nissan,Terrano XL 1.5 85 PS...,4.65 Lakhs,Gurgaon,"79,168 Kms",Diesel,SUV,2nd Owner
+34,2014,Ford,Ecosport TITANIUM 1....,4.75 Lakhs,Ghaziabad,"80,777 Kms",Diesel,SUV,2nd Owner
+35,2014,Ford,Ecosport TREND 1.5 T...,4.75 Lakhs,Gurgaon,"66,246 Kms",Diesel,SUV,2nd Owner
+36,2014,Nissan,Terrano  XE D,4.75 Lakhs,Gurgaon,"70,433 Kms",Diesel,SUV,2nd Owner
+37,2013,Ford,Ecosport TITANIUM 1....,4.75 Lakhs,Delhi,"41,000 Kms",Diesel,SUV,1st Owner
+38,2013,Ford,Ecosport TITANIUM 1....,4.75 Lakhs,Delhi,"56,175 Kms",Petrol,SUV,1st Owner
+39,2011,Mitsubishi,Outlander  2.4 MIVEC,4.8 Lakhs,Gurgaon,1.39 Lakhs Kms,Petrol,SUV,2nd Owner
+40,2012,Mahindra,Xuv500(2011_2015)  W8,4.95 Lakhs,Delhi,"70,000 Kms",Diesel,SUV,1st Owner
+41,2013,Renault,Duster  RXE PETROL,5 Lakhs,Delhi,"28,829 Kms",Petrol,SUV,1st Owner
+42,2016,Mahindra,Tuv 300  T8,5.25 Lakhs,Delhi,"64,000 Kms",Diesel,SUV,2nd Owner
+43,2015,Ford,Ecosport AMBIENTE 1....,5.25 Lakhs,Noida,"82,185 Kms",Diesel,SUV,1st Owner
+44,2014,Ford,Ecosport TITANIUM 1....,5.25 Lakhs,Delhi,"74,883 Kms",Diesel,SUV,1st Owner
+45,2013,Ford,Ecosport TITANIUM 1....,5.25 Lakhs,Ghaziabad,"63,900 Kms",Diesel,SUV,1st Owner
+46,2013,Mahindra,Xuv500  W8,5.25 Lakhs,Faridabad,"97,475 Kms",Diesel,SUV,1st Owner
+47,2013,Ford,Ecosport TITANIUM 1....,5.25 Lakhs,Delhi,"63,972 Kms",Diesel,SUV,1st Owner
+48,2013,Mahindra,Xuv500  W8,5.25 Lakhs,Faridabad,"97,475 Kms",Diesel,SUV,1st Owner
+49,2012,Toyota,Innova  2.5 G4 7 STR,5.25 Lakhs,Faridabad,2.17 Lakhs Kms,Diesel,SUV,1st Owner
+50,2016,Mahindra,Tuv 300  T8,5.3 Lakhs,Gurgaon,"72,400 Kms",Diesel,SUV,1st Owner
+51,2013,Ford,Ecosport TITANIUM 1....,5.35 Lakhs,Noida,"68,000 Kms",Petrol,SUV,2nd Owner
+52,2015,Renault,Duster  85 PS RXL,5.49 Lakhs,Ghaziabad,"74,523 Kms",Diesel,SUV,1st Owner
+53,2013,Mahindra,Scorpio  EX,5.5 Lakhs,Ghaziabad,"50,200 Kms",Diesel,SUV,1st Owner
+54,2013,Mahindra,Scorpio  EX,5.5 Lakhs,Delhi,"50,200 Kms",Diesel,SUV,1st Owner
+55,2014,Tata,Safari Storme 2.2 VX...,5.5 Lakhs,Delhi,"76,000 Kms",Diesel,SUV,1st Owner
+56,2018,Mahindra,Kuv100 Nxt  K8 6 STR,5.6 Lakhs,Noida,"29,000 Kms",Petrol,SUV,1st Owner
+57,2018,Mahindra,Kuv100 Nxt  K8 6 STR,5.6 Lakhs,Noida,"28,968 Kms",Petrol,SUV,1st Owner
+58,2016,Maruti Suzuki,S Cross  1.3 DELTA,5.65 Lakhs,Delhi,"74,290 Kms",Diesel,SUV,1st Owner
+59,2013,Toyota,Innova  2.5 G4 7 STR,5.7 Lakhs,Noida,1.2 Lakhs Kms,Diesel,SUV,1st Owner
+60,2015,Ford,Ecosport AMBIENTE 1....,5.85 Lakhs,Gurgaon,"59,285 Kms",Petrol,SUV,1st Owner
+61,2015,Renault,Duster RXE PETROL 10...,5.9 Lakhs,Gurgaon,"44,000 Kms",Petrol,SUV,1st Owner
+62,2016,Ford,Ecosport TITANIUM + ...,5.95 Lakhs,Faridabad,"67,558 Kms",Diesel,SUV,1st Owner
+63,2016,Mahindra,Tuv 300  T8,5.95 Lakhs,Noida,"78,000 Kms",Diesel,SUV,1st Owner
+64,2015,Ford,Ecosport TITANIUM 1....,5.95 Lakhs,Noida,"78,000 Kms",Diesel,SUV,2nd Owner
+65,2015,Ford,Ecosport TREND 1.5 T...,6 Lakhs,Ghaziabad,"55,000 Kms",Diesel,SUV,1st Owner
+66,2015,Ford,Ecosport TREND 1.5 T...,6 Lakhs,Delhi,"55,000 Kms",Diesel,SUV,1st Owner
+67,2013,Renault,Duster  RXE PETROL,6 Lakhs,Ghaziabad,"28,829 Kms",Petrol,SUV,1st Owner
+68,2016,Mahindra,Tuv 300  T8,6.15 Lakhs,Noida,"85,049 Kms",Diesel,SUV,1st Owner
+69,2016,Mahindra,Tuv 300  T8 MHAWK 100,6.25 Lakhs,Noida,"92,000 Kms",Diesel,SUV,1st Owner
+70,2015,Ford,Ecosport TITANIUM 1....,6.25 Lakhs,Gurgaon,"70,308 Kms",Petrol,SUV,1st Owner
+71,2015,Renault,Duster 110 PS RXZ DI...,6.5 Lakhs,Ghaziabad,"81,645 Kms",Diesel,SUV,1st Owner
+72,2016,Mahindra,Tuv 300  T8,6.65 Lakhs,Gurgaon,"66,876 Kms",Diesel,SUV,1st Owner
+73,2017,Maruti Suzuki,Vitara Brezza  VDI O,6.75 Lakhs,Delhi,"61,254 Kms",Diesel,SUV,1st Owner
+74,2016,Mahindra,Tuv 300  T6 PLUS,6.75 Lakhs,Faridabad,"77,728 Kms",Diesel,SUV,1st Owner
+75,2016,Mahindra,Tuv 300  T6 PLUS,6.75 Lakhs,Faridabad,"77,728 Kms",Diesel,SUV,1st Owner
+76,2016,Ford,Ecosport TREND 1.5 T...,6.75 Lakhs,Noida,"44,000 Kms",Diesel,SUV,1st Owner
+77,2014,Mahindra,Xuv500  W8,6.75 Lakhs,Delhi,"60,000 Kms",Diesel,SUV,1st Owner
+78,2016,Mahindra,Tuv 300  T8,6.85 Lakhs,Faridabad,"55,078 Kms",Diesel,SUV,1st Owner
+79,2015,Mahindra,Xuv500(2011_2015)  W6,6.9 Lakhs,Gurgaon,1.08 Lakhs Kms,Diesel,SUV,1st Owner
+80,2016,Ford,Ecosport TITANIUM 1....,6.95 Lakhs,Delhi,"34,736 Kms",Petrol,SUV,1st Owner
+81,2017,Honda,Br V  E PETROL,7 Lakhs,Delhi,"43,010 Kms",Petrol,SUV,1st Owner
+82,2017,Honda,Wr V  S MT PETROL,7.25 Lakhs,Noida,"17,000 Kms",Petrol,SUV,1st Owner
+83,2017,Mahindra,Bolero  ZLX,7.4 Lakhs,Delhi,"54,400 Kms",Diesel,SUV,1st Owner
+84,2016,Ford,Ecosport TITANIUM 1....,7.4 Lakhs,Delhi,"55,965 Kms",Diesel,SUV,1st Owner
+85,2017,Maruti Suzuki,Vitara Brezza ZDI PL...,7.75 Lakhs,Gurgaon,"60,000 Kms",Diesel,SUV,1st Owner
+86,2017,Maruti Suzuki,Vitara Brezza ZDI PL...,7.8 Lakhs,Gurgaon,"36,986 Kms",Diesel,SUV,1st Owner
+87,2012,BMW,X1  SDRIVE 20D,7.8 Lakhs,Delhi,"99,000 Kms",Diesel,SUV,1st Owner
+88,2018,Ford,Ecosport TREND + 1.5...,7.95 Lakhs,Delhi,"77,642 Kms",Petrol,SUV,1st Owner
+89,2012,Hyundai,I10  MAGNA 1.2,2.55 Lakhs,Noida,"65,000 Kms",Petrol,Hatchback,1st Owner
+90,2011,Hyundai,I10  MAGNA 1.2,2.5 Lakhs,Noida,"73,365 Kms",Petrol,Hatchback,1st Owner
+91,2011,Hyundai,I10  MAGNA 1.2,2.5 Lakhs,Noida,"73,365 Kms",Petrol,Hatchback,1st Owner
+92,2013,Maruti Suzuki,Alto K10  VXI,2.65 Lakhs,Ghaziabad,"26,000 Kms",Petrol,Hatchback,1st Owner
+93,2010,Hyundai,I10  MAGNA 1.1 IRDE2,,Noida,"78,000 Kms",Petrol,Hatchback,2nd Owner
+94,2010,Chevrolet,Spark  LT 1.0,,Noida,"78,000 Kms",Petrol,Hatchback,1st Owner
+95,2019,Maruti Suzuki,Vitara Brezza  ZDi+,9.65 Lakhs,Delhi,"15,023 Kms",Diesel,Hatchback,1st Owner
+96,2018,Hyundai,Creta 1.6 CRDI AT SX...,14.75 Lakhs,Delhi,"36,121 Kms",Diesel,CompactSUV,1st Owner
+97,2017,Maruti Suzuki,Ignis  ZETA 1.2 AT,5.35 Lakhs,Ghaziabad,"10,934 Kms",Petrol,Hatchback,1st Owner
+98,2013,Maruti Suzuki,Alto K10  VXI,2.65 Lakhs,Delhi,"26,047 Kms",Petrol,Hatchback,1st Owner
+99,2018,Mahindra,Scorpio  S7 140 2WD,12.5 Lakhs,Delhi,"20,331 Kms",Diesel,SUV,2nd Owner
+100,2016,Honda,Jazz  1.2 S AT I VTEC,5.75 Lakhs,Delhi,"49,000 Kms",Petrol,Hatchback,1st Owner
+101,2015,Maruti Suzuki,Baleno  ALPHA,5.75 Lakhs,Noida,"40,000 Kms",Petrol,Hatchback,1st Owner
+102,2014,Maruti Suzuki,Ciaz  ZXI AT,5.99 Lakhs,Delhi,"48,791 Kms",Petrol,Sedan,2nd Owner
+103,2014,Maruti Suzuki,Ertiga  ZXI,5.55 Lakhs,Delhi,"46,651 Kms",Petrol,MUV,1st Owner
+104,2019,Hyundai,Venue SX 1.0 (O) PET...,9.2 Lakhs,Delhi,"16,813 Kms",Petrol,SUV,1st Owner
+105,2018,Maruti Suzuki,Alto 800  STD,2.8 Lakhs,Delhi,"14,608 Kms",Petrol,Hatchback,1st Owner
+106,2010,Hyundai,I10  MAGNA 1.2,1.75 Lakhs,Delhi,"82,000 Kms",Petrol,Hatchback,2nd Owner
+107,2018,Hyundai,Elite I20 MAGNA EXEC...,6.25 Lakhs,Faridabad,"31,120 Kms",Diesel,Hatchback,1st Owner
+108,2017,Maruti Suzuki,Ignis  ZETA 1.2 AT,5.75 Lakhs,Delhi,"11,027 Kms",Petrol,Hatchback,1st Owner
+109,2017,Toyota,Innova Crysta 2.4 G ...,14.75 Lakhs,Delhi,"47,000 Kms",Diesel,MPV,1st Owner
+110,2016,Honda,City  1.5 VX CVT,7.65 Lakhs,Delhi,"87,006 Kms",Petrol,Sedan,1st Owner
+111,2013,Audi,Q3 2.0  TDI QUATTRO,15.5 Lakhs,Delhi,"47,000 Kms",Diesel,SUV,1st Owner
+112,2018,Hyundai,Verna 1.6 VTVT SX O ...,10.15 Lakhs,Delhi,"48,876 Kms",Petrol,Sedan,1st Owner
+113,2018,Hyundai,Verna  VTVT SX 1.6,10 Lakhs,Delhi,"53,266 Kms",Petrol,Sedan,1st Owner
+114,2016,Audi,A3 35 TDI TECHNOLOGY...,18.5 Lakhs,Delhi,"33,400 Kms",Diesel,Sedan,1st Owner
+115,2019,Honda,Br V  V CVT PETROL,9.5 Lakhs,Gurgaon,"18,553 Kms",Petrol,SUV,1st Owner
+116,2014,Renault,Scala  RXL AT,3.85 Lakhs,Delhi,"34,027 Kms",Petrol,Sedan,1st Owner
+117,2013,Hyundai,New Elantra 1.8 SX M...,7.5 Lakhs,Delhi,"62,338 Kms",Petrol,Sedan,1st Owner
+118,2018,Tata,Tigor  REVOTRON XZA,5.85 Lakhs,Noida,"39,000 Kms",Petrol,Sedan,2nd Owner
+119,2014,Honda,Amaze 1.5 VXMT I DTE...,4.1 Lakhs,Delhi,"68,910 Kms",Diesel,Sedan,2nd Owner
+120,2014,Volkswagen,Polo HIGHLINE1.2L PE...,4.55 Lakhs,Noida,"44,073 Kms",Petrol,Hatchback,1st Owner
+121,2014,Volkswagen,Polo HIGHLINE1.2L PE...,4.55 Lakhs,Noida,"44,073 Kms",Petrol,Hatchback,1st Owner
+122,2012,Toyota,Camry  2.5 AT,8.5 Lakhs,Delhi,"78,120 Kms",Petrol,Sedan,2nd Owner
+123,2020,Tata,Altroz XE RHYTM PETR...,5.65 Lakhs,Delhi,"9,000 Kms",Petrol,Hatchback,2nd Owner
+124,2019,Volkswagen,Ameo HIGHLINE 1.0L P...,5.45 Lakhs,Ghaziabad,"19,759 Kms",Petrol,Sedan,1st Owner
+125,2019,Maruti Suzuki,Xl6  ALPHA AT PETROL,11.5 Lakhs,Ghaziabad,"13,435 Kms",Petrol,MPV,1st Owner
+126,2016,Tata,Zest XMS QUADRAJET 9...,3.75 Lakhs,Noida,"39,729 Kms",Diesel,Sedan,1st Owner
+127,2015,Maruti Suzuki,Alto 800  LXI,2.75 Lakhs,Noida,"17,587 Kms",Petrol,Hatchback,1st Owner
+128,2018,Maruti Suzuki,Alto 800  LXI,3.25 Lakhs,Noida,"4,262 Kms",Petrol,Hatchback,2nd Owner
+129,2018,Hyundai,Elite I20 MAGNA EXEC...,5.85 Lakhs,Delhi,"28,143 Kms",Petrol,Hatchback,1st Owner
+130,2017,Tata,Hexa  XT 4X2 6 STR,10.95 Lakhs,Noida,"31,625 Kms",Diesel,SUV,1st Owner
+131,2017,Tata,Hexa  XT 4X2 6 STR,10.95 Lakhs,Noida,"31,625 Kms",Diesel,SUV,1st Owner
+132,2015,Maruti Suzuki,Alto 800  LXI,2.55 Lakhs,Noida,"46,061 Kms",Petrol,Hatchback,2nd Owner
+133,2015,Maruti Suzuki,Alto 800  LXI,2.55 Lakhs,Noida,"44,000 Kms",Petrol,Hatchback,2nd Owner
+134,2019,Volkswagen,Polo CUP EDITION PET...,6.5 Lakhs,Delhi,"1,657 Kms",Petrol,Hatchback,1st Owner
+135,2019,Volkswagen,Polo CUP EDITION PET...,6.5 Lakhs,Ghaziabad,"1,657 Kms",Petrol,Hatchback,1st Owner
+136,2019,Tata,Tiago REVOTRON XZ PL...,5.25 Lakhs,Noida,"10,618 Kms",Petrol,Hatchback,1st Owner
+137,2018,Hyundai,Grand I10 SPORTZ 1.2...,5.25 Lakhs,Faridabad,"16,592 Kms",Petrol,Hatchback,1st Owner
+138,2015,Maruti Suzuki,Alto 800  LXI,2.55 Lakhs,Faridabad,"38,901 Kms",Petrol,Hatchback,1st Owner
+139,2015,Maruti Suzuki,Alto 800  LXI,2.55 Lakhs,Faridabad,"27,385 Kms",Petrol,Hatchback,1st Owner
+140,2014,Hyundai,Santro Xing  GLS,2.82 Lakhs,Faridabad,"38,102 Kms",Petrol,Hatchback,1st Owner
+141,2014,Hyundai,Santro Xing  GLS,2.82 Lakhs,Faridabad,"38,102 Kms",Petrol,Hatchback,1st Owner
+142,2013,Maruti Suzuki,Alto 800  LXI,2.45 Lakhs,Faridabad,"8,110 Kms",Petrol,Hatchback,1st Owner
+143,2013,Honda,Brio  V MT,2.92 Lakhs,Gurgaon,"43,965 Kms",Petrol,Hatchback,2nd Owner
+144,2018,Nissan,Micra  XV CVT,5.45 Lakhs,Delhi,"3,005 Kms",Petrol,Hatchback,1st Owner
+145,2018,Hyundai,Elite I20 MAGNA EXEC...,6.85 Lakhs,Delhi,"39,014 Kms",Petrol,Hatchback,1st Owner
+146,2015,Maruti Suzuki,Swift  LXI,3.95 Lakhs,Noida,"53,767 Kms",Petrol,Hatchback,2nd Owner
+147,2015,Maruti Suzuki,Swift Dzire  VDI,5.5 Lakhs,Ghaziabad,"57,000 Kms",Diesel,Sedan,1st Owner
+148,2015,Maruti Suzuki,Swift Dzire  VDI,5.5 Lakhs,Delhi,"59,478 Kms",Diesel,Sedan,1st Owner
+149,2014,Maruti Suzuki,Ciaz  ZXI MT,5.5 Lakhs,Delhi,"52,429 Kms",Petrol,Sedan,1st Owner
+150,2014,Maruti Suzuki,Alto 800  LXI,2.85 Lakhs,Noida,"35,843 Kms",CNG,Hatchback,1st Owner
+151,2013,Nissan,Sunny  XV PETROL,3.75 Lakhs,Delhi,"55,260 Kms",Petrol,Sedan,1st Owner
+152,2012,Honda,City  1.5 S MT,4.25 Lakhs,Noida,"82,189 Kms",Petrol,Sedan,1st Owner
+153,2021,Maruti Suzuki,Baleno  SIGMA,,Noida,989 Kms,Petrol,Hatchback,1st Owner
+154,2018,Maruti Suzuki,Vitara Brezza ZDI+ D...,9.25 Lakhs,Delhi,"23,000 Kms",Diesel,SUV,1st Owner
+155,2018,Mahindra,Scorpio  S7 140 2WD,12.25 Lakhs,Gurgaon,"98,010 Kms",Diesel,SUV,1st Owner
+156,2011,Skoda,Superb  ELEGANCE 1.8...,5.95 Lakhs,Delhi,"25,300 Kms",Petrol,Sedan,1st Owner
+157,2018,Maruti Suzuki,Alto K10  LXI,3.5 Lakhs,Ghaziabad,"10,790 Kms",Petrol,Hatchback,1st Owner
+158,2017,Renault,Kwid  RXT,3.5 Lakhs,Ghaziabad,"17,992 Kms",Petrol,Hatchback,1st Owner
+159,2013,Hyundai,I10  MAGNA 1.2,2.85 Lakhs,Gurgaon,"64,515 Kms",Petrol,Hatchback,1st Owner
+160,2012,Hyundai,I10 SPORTZ 1.2 KAPPA...,2.9 Lakhs,Gurgaon,"45,187 Kms",Petrol,Hatchback,1st Owner
+161,2012,Hyundai,I10  ERA 1.1 1RDE2,2.5 Lakhs,Noida,"38,428 Kms",Petrol,Hatchback,1st Owner
+162,2016,Maruti Suzuki,Alto K10  VXI AMT,3.25 Lakhs,Delhi,"25,000 Kms",Petrol,Hatchback,2nd Owner
+163,2018,Hyundai,Creta 1.6 SX PLUS AT...,12.75 Lakhs,Delhi,"15,030 Kms",Petrol,SUV,1st Owner
+164,2016,Honda,City  VX CVT PETROL,8.45 Lakhs,Noida,"44,000 Kms",Petrol,Sedan,1st Owner
+165,2015,Honda,Amaze  1.2 SMT I VTEC,4.49 Lakhs,Noida,"42,000 Kms",Petrol,Sedan,1st Owner
+166,2015,Honda,City  1.5 V MT,7 Lakhs,Ghaziabad,"42,685 Kms",Petrol,Sedan,1st Owner
+167,2014,Volkswagen,Vento  TSI AT,5.65 Lakhs,Noida,"65,000 Kms",Petrol,Sedan,1st Owner
+168,2014,Honda,City  1.5 V MT,6.35 Lakhs,Noida,"26,464 Kms",Petrol,Sedan,1st Owner
+169,2013,Maruti Suzuki,Swift  ZXI,4.15 Lakhs,Noida,"52,940 Kms",Petrol,Hatchback,2nd Owner
+170,2018,Renault,Kwid  1.0 RXT AMT O,4.31 Lakhs,Noida,"16,000 Kms",Petrol,Hatchback,1st Owner
+171,2018,Renault,Kwid  1.0 RXT AMT O,4.31 Lakhs,Noida,"16,653 Kms",Petrol,Hatchback,1st Owner
+172,2016,Mahindra,Xuv500(2015_2017)  W8,10.45 Lakhs,Noida,"54,000 Kms",Diesel,SUV,1st Owner
+173,2016,Hyundai,Elite I20  ASTA O 1.2,6.11 Lakhs,Noida,"26,000 Kms",Petrol,Hatchback,1st Owner
+174,2016,Mahindra,Xuv500(2015_2017)  W8,10.45 Lakhs,Noida,"54,897 Kms",Diesel,SUV,1st Owner
+175,2016,Honda,City  1.5 VX CVT,8.45 Lakhs,Noida,"44,625 Kms",Petrol,Sedan,1st Owner
+176,2016,Hyundai,I20  ASTA 1.2 O,6.11 Lakhs,Noida,"26,837 Kms",Petrol,Hatchback,1st Owner
+177,2015,Honda,Amaze  1.2 SMT I VTEC,4.49 Lakhs,Noida,"42,372 Kms",Petrol,Sedan,1st Owner
+178,2015,Tata,Zest  XM RT 90PS,4.5 Lakhs,Delhi,"17,565 Kms",Petrol,Sedan,1st Owner
+179,2015,Hyundai,New Elantra 1.8 SX M...,9 Lakhs,Delhi,"60,239 Kms",Petrol,Sedan,1st Owner
+180,2014,Maruti Suzuki,Swift  ZXI,4.25 Lakhs,Noida,"45,667 Kms",CNG,Hatchback,1st Owner
+181,2014,Honda,City  1.5 V MT,6.35 Lakhs,Noida,"26,123 Kms",Petrol,Sedan,1st Owner
+182,2013,Maruti Suzuki,Swift  ZXI,4.15 Lakhs,Noida,"52,045 Kms",Petrol,Hatchback,2nd Owner
+183,2012,Hyundai,I20  MAGNA O 1.2,3.5 Lakhs,Ghaziabad,"59,000 Kms",Petrol,Hatchback,1st Owner
+184,2012,Hyundai,New Elantra 1.8 SX M...,6.75 Lakhs,Ghaziabad,"60,500 Kms",Petrol,Sedan,1st Owner
+185,2012,Hyundai,New Elantra 1.8 SX M...,6.75 Lakhs,Delhi,"65,265 Kms",Petrol,Sedan,1st Owner
+186,2014,Maruti Suzuki,Swift(2014_2018)  VXI,4.5 Lakhs,Delhi,"53,810 Kms",Petrol,Hatchback,1st Owner
+187,2014,Maruti Suzuki,Swift  VXI,4.5 Lakhs,Ghaziabad,"54,000 Kms",Petrol,Hatchback,1st Owner
+188,2013,Honda,City  1.5 S AT,7 Lakhs,Ghaziabad,"48,000 Kms",Petrol,Sedan,1st Owner
+189,2013,Honda,Amaze 1.5 VXMT I DTE...,3.65 Lakhs,Gurgaon,"57,942 Kms",Diesel,Sedan,1st Owner
+190,2013,Renault,Duster RXL PACK DIES...,3.95 Lakhs,Gurgaon,"66,612 Kms",Diesel,SUV,1st Owner
+191,2016,Mahindra,Kuv100 K8 6 SEATER P...,3.75 Lakhs,Delhi,"50,224 Kms",Petrol,Hatchback,1st Owner
+192,2016,Honda,Amaze  SX MT,4.25 Lakhs,Delhi,"62,106 Kms",Petrol,Sedan,1st Owner
+193,2014,Hyundai,I20  SPORTZ 1.2 O,4.85 Lakhs,Delhi,"60,367 Kms",Petrol,Hatchback,1st Owner
+194,2019,Hyundai,Santro  SPORTZ AMT,5.75 Lakhs,Noida,"1,545 Kms",Petrol,Hatchback,1st Owner
+195,2017,Maruti Suzuki,Baleno  DELTA,,Noida,"42,206 Kms",Petrol,Hatchback,1st Owner
+196,2017,Hyundai,Tucson 2WD AT GLS DI...,15.00 Lakhs,Gurgaon,"23,500 Kms",Diesel,SUV,2nd Owner
+197,2016,Hyundai,Creta 1.6 CRDI AT SX...,9.5 Lakhs,Delhi,"62,987 Kms",Diesel,CompactSUV,1st Owner
+198,2015,Maruti Suzuki,Baleno  ALPHA (D),5.6 Lakhs,Delhi,"61,000 Kms",Diesel,Hatchback,1st Owner
+199,2020,Renault,Kwid  CLIMBER 1.0 AMT,4.9 Lakhs,Delhi,"19,000 Kms",Petrol,Hatchback,1st Owner
+200,2015,Hyundai,New Elantra 1.8 SX M...,9 Lakhs,Ghaziabad,"60,200 Kms",Petrol,Sedan,1st Owner
+201,2014,Hyundai,I20  ASTA 1.2,4.95 Lakhs,Delhi,"51,456 Kms",Petrol,Hatchback,1st Owner
+202,2013,Hyundai,Sonata  2.4 GDI MT,8 Lakhs,Ghaziabad,"56,000 Kms",Petrol,Sedan,1st Owner
+203,2013,Hyundai,New Elantra 1.8 SX M...,7.5 Lakhs,Ghaziabad,"62,000 Kms",Petrol,Sedan,1st Owner
+204,2013,Hyundai,Sonata  2.4 GDI MT,8 Lakhs,Delhi,"56,683 Kms",Petrol,Sedan,1st Owner
+205,2018,Maruti Suzuki,Baleno  DELTA,6.25 Lakhs,Delhi,"39,000 Kms",Petrol,Hatchback,1st Owner
+206,2016,Maruti Suzuki,Celerio  VXI AMT,4.15 Lakhs,Faridabad,"32,966 Kms",Petrol,Saloon,1st Owner
+207,2013,Ford,Figo ZXI DURATORQ 1....,2.55 Lakhs,Faridabad,"86,565 Kms",Diesel,Hatchback,1st Owner
+208,2020,Hyundai,Elite I20 SPORTZ PLU...,7.5 Lakhs,Delhi,"3,000 Kms",Petrol,Hatchback,1st Owner
+209,2018,Maruti Suzuki,Vitara Brezza  ZDi+,9.4 Lakhs,Delhi,"25,245 Kms",Diesel,Hatchback,1st Owner
+210,2018,Hyundai,Xcent  E PLUS,5.35 Lakhs,Noida,"58,298 Kms",Petrol,Sedan,1st Owner
+211,2018,Maruti Suzuki,Wagon R 1.0  LXI CNG,4.65 Lakhs,Ghaziabad,"36,140 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+212,2018,Maruti Suzuki,Swift  LDI,5.1 Lakhs,Gurgaon,"46,447 Kms",Diesel,Hatchback,1st Owner
+213,2017,Renault,Kwid  RXT,3.25 Lakhs,Noida,"40,760 Kms",Petrol,Hatchback,1st Owner
+214,2017,Maruti Suzuki,Dzire  ZXI PLUS AMT,7.37 Lakhs,Noida,"36,194 Kms",Petrol,Sedan,1st Owner
+215,2017,Renault,Kwid  RXT,3.25 Lakhs,Noida,"40,770 Kms",Petrol,Hatchback,1st Owner
+216,2017,Maruti Suzuki,Dzire  ZXI PLUS AMT,7.37 Lakhs,Noida,"36,194 Kms",Petrol,Sedan,1st Owner
+217,2016,Honda,Jazz  1.2 V AT I VTEC,5.35 Lakhs,Noida,"25,650 Kms",Petrol,Hatchback,2nd Owner
+218,2014,Hyundai,Grand I10 ASTA 1.2 K...,3.99 Lakhs,Noida,"38,160 Kms",Petrol,Hatchback,1st Owner
+219,2013,Hyundai,I20  MAGNA O 1.2,3.2 Lakhs,Delhi,"80,295 Kms",Petrol,Hatchback,2nd Owner
+220,2018,Tata,Tiago  XZ,4.65 Lakhs,Gurgaon,"56,649 Kms",Petrol,Hatchback,1st Owner
+221,2018,Hyundai,Grand I10 SPORTZ 1.2...,5.25 Lakhs,Faridabad,"18,011 Kms",Petrol,Hatchback,1st Owner
+222,2020,Maruti Suzuki,Celerio  VXI CNG O,5.75 Lakhs,Delhi,"12,308 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+223,2017,Maruti Suzuki,Alto K10  VXI AMT,3.5 Lakhs,Delhi,"39,276 Kms",Petrol,Hatchback,1st Owner
+224,2017,Maruti Suzuki,Swift Dzire ZDI BS I...,6.7 Lakhs,Delhi,"33,000 Kms",Diesel,Sedan,1st Owner
+225,2016,Skoda,Octavia 2.0 TDI CR S...,11.75 Lakhs,Delhi,"70,000 Kms",Diesel,Sedan,1st Owner
+226,2014,Honda,City  1.5 V MT,5.65 Lakhs,Delhi,"63,502 Kms",Petrol,Sedan,1st Owner
+227,2012,Maruti Suzuki,Swift Dzire  ZXI,3.35 Lakhs,Delhi,"63,248 Kms",Petrol,Sedan,1st Owner
+228,2020,Hyundai,Venue S 1.0 AT PETRO...,10.25 Lakhs,Faridabad,"7,406 Kms",Petrol,SUV,1st Owner
+229,2020,Hyundai,Venue S 1.0 AT PETRO...,10.25 Lakhs,Faridabad,"7,406 Kms",Petrol,SUV,1st Owner
+230,2017,Maruti Suzuki,S Cross  1.6 ZETA,8.15 Lakhs,Delhi,"49,244 Kms",Diesel,SUV,1st Owner
+231,2017,Maruti Suzuki,Celerio  VXI AT,4.35 Lakhs,Noida,"34,873 Kms",Petrol,Hatchback,1st Owner
+232,2013,Maruti Suzuki,Wagon R 1.0  LXI CNG,2.45 Lakhs,Delhi,"76,444 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+233,2017,Maruti Suzuki,Ignis  ZETA 1.2 MT,4.85 Lakhs,Delhi,"33,677 Kms",Petrol,Hatchback,1st Owner
+234,2017,Maruti Suzuki,Swift  VXI 1.2 BS IV,5 Lakhs,Ghaziabad,"53,334 Kms",Petrol,Hatchback,1st Owner
+235,2015,Hyundai,Grand I10 MAGNA 1.2 ...,3.85 Lakhs,Delhi,"49,568 Kms",Petrol,Hatchback,1st Owner
+236,2015,Maruti Suzuki,Celerio  VXI AT,3.8 Lakhs,Ghaziabad,"85,092 Kms",Petrol,Hatchback,1st Owner
+237,2015,Hyundai,Eon  MAGNA PLUS,2.75 Lakhs,Faridabad,"51,090 Kms",Petrol,Hatchback,1st Owner
+238,2015,Hyundai,Eon  MAGNA PLUS,2.75 Lakhs,Faridabad,"51,840 Kms",Petrol,Hatchback,1st Owner
+239,2014,Maruti Suzuki,Alto 800  LXI,2.25 Lakhs,Faridabad,"37,405 Kms",Petrol,Hatchback,1st Owner
+240,2014,Maruti Suzuki,Alto 800  LXI,2.45 Lakhs,Faridabad,"37,405 Kms",Petrol,Hatchback,1st Owner
+241,2021,Maruti Suzuki,Xl6  ALPHA AT PETROL,12.95 Lakhs,Delhi,915 Kms,Petrol,MPV,1st Owner
+242,2020,Maruti Suzuki,Vitara Brezza  ZXI,10 Lakhs,Ghaziabad,"2,491 Kms",Petrol,SUV,1st Owner
+243,2016,Hyundai,Grand I10 ASTA AT 1....,5 Lakhs,Delhi,"40,000 Kms",Petrol,Hatchback,1st Owner
+244,2018,Toyota,Platinum Etios  VX,6.15 Lakhs,Gurgaon,"34,089 Kms",Petrol,Sedan,1st Owner
+245,2018,Mahindra,Thar  DI 4WD,9 Lakhs,Delhi,"5,915 Kms",Diesel,SUV,1st Owner
+246,2017,Renault,Kwid  RXT,3.75 Lakhs,Faridabad,"24,245 Kms",Petrol,Hatchback,1st Owner
+247,2017,Renault,Kwid  RXT,3.45 Lakhs,Faridabad,"24,245 Kms",Petrol,Hatchback,1st Owner
+248,2012,Honda,City  1.5 S MT,4.5 Lakhs,Delhi,"55,000 Kms",Petrol,Sedan,1st Owner
+249,2019,Maruti Suzuki,Baleno  SIGMA,5.95 Lakhs,Noida,"9,127 Kms",Petrol,Hatchback,1st Owner
+250,2016,Datsun,Redi Go  S,2.65 Lakhs,Delhi,"40,032 Kms",Petrol,Hatchback,1st Owner
+251,2016,Renault,Kwid  RXL,2.75 Lakhs,Delhi,"10,211 Kms",Petrol,Hatchback,1st Owner
+252,2015,Renault,Kwid  RXL,2.75 Lakhs,Noida,"16,856 Kms",Petrol,Hatchback,1st Owner
+253,2015,Tata,Zest XM QUADRAJET 90...,3.25 Lakhs,Noida,"52,340 Kms",Diesel,Sedan,1st Owner
+254,2015,Nissan,Micra  XL PETROL,3.35 Lakhs,Delhi,"25,111 Kms",Petrol,Hatchback,1st Owner
+255,2014,Hyundai,Elantra VTVT S 1.8 B...,7.5 Lakhs,Delhi,"55,000 Kms",Petrol,Sedan,1st Owner
+256,2014,Honda,Amaze  1.2 SMT I VTEC,3.75 Lakhs,Noida,"61,726 Kms",Petrol,Sedan,1st Owner
+257,2013,Hyundai,I10 SPORTZ 1.2 KAPPA...,3.25 Lakhs,Noida,"25,133 Kms",Petrol,Hatchback,1st Owner
+258,2018,Mahindra,Everito  D4,5.45 Lakhs,Gurgaon,153 Kms,Electric,Sedan,1st Owner
+259,2017,Mahindra,Everito  D2,4.95 Lakhs,Gurgaon,485 Kms,Electric,Sedan,1st Owner
+260,2019,Maruti Suzuki,Ertiga  ZXI AT,10.75 Lakhs,Delhi,"15,000 Kms",Petrol,MPV,1st Owner
+261,2018,Toyota,Fortuner  2.8 2WD MT,29.5 Lakhs,Delhi,"28,000 Kms",Diesel,SUV,1st Owner
+262,2018,Hyundai,Creta  SX 1.6 PETROL,11.75 Lakhs,Delhi,"34,000 Kms",Petrol,SUV,1st Owner
+263,2017,Hyundai,I20(2015_2017) MAGNA...,5.75 Lakhs,Ghaziabad,"52,000 Kms",Petrol,Hatchback,1st Owner
+264,2017,Maruti Suzuki,Dzire  ZXI PLUS,7.15 Lakhs,Delhi,"21,000 Kms",Petrol,Sedan,1st Owner
+265,2016,Maruti Suzuki,Wagon R 1.0  VXI,3.75 Lakhs,Delhi,"31,000 Kms",Petrol,Hatchback,1st Owner
+266,2015,Hyundai,Eon  ERA PLUS,2.7 Lakhs,Delhi,"76,000 Kms",Petrol,Hatchback,1st Owner
+267,2014,Maruti Suzuki,Wagon R 1.0  VXI,3.25 Lakhs,Delhi,"28,000 Kms",Petrol,Hatchback,1st Owner
+268,2013,Honda,City  1.5 V MT,4.95 Lakhs,Delhi,"58,000 Kms",Petrol,Sedan,1st Owner
+269,2013,Maruti Suzuki,Wagon R  LXI,3.25 Lakhs,Noida,"32,008 Kms",Petrol,Hatchback,1st Owner
+270,2011,Hyundai,I10  MAGNA 1.2,2.75 Lakhs,Ghaziabad,"26,516 Kms",Petrol,Hatchback,1st Owner
+271,2017,Maruti Suzuki,Ciaz ZDI PLUS SHVS R...,7.5 Lakhs,Delhi,"68,000 Kms",Diesel,Sedan,1st Owner
+272,2016,Maruti Suzuki,Ciaz  ZXI MT,6.65 Lakhs,Delhi,"41,000 Kms",Petrol,Sedan,1st Owner
+273,2015,Maruti Suzuki,Swift(2014_2018)  ZXI,4.85 Lakhs,Delhi,"49,714 Kms",Petrol,Hatchback,1st Owner
+274,2011,Hyundai,I10  MAGNA 1.2,2.9 Lakhs,Delhi,"26,516 Kms",Petrol,Hatchback,1st Owner
+275,2017,Toyota,Fortuner  2.8 4WD MT,26.5 Lakhs,Delhi,"60,000 Kms",Diesel,SUV,1st Owner
+276,2017,Maruti Suzuki,Celerio  ZXI A/T,4.65 Lakhs,Delhi,"32,000 Kms",Petrol,Hatchback,1st Owner
+277,2016,Maruti Suzuki,Ciaz VDI PLUS MT SHV...,6.5 Lakhs,Delhi,"21,000 Kms",Diesel,Sedan,1st Owner
+278,2016,Maruti Suzuki,Ciaz VDI PLUS MT SHV...,66.5 Lakhs,Delhi,"40,449 Kms",Diesel,Sedan,1st Owner
+279,2016,Mahindra,Scorpio  S8 1.99,9.5 Lakhs,Delhi,"50,000 Kms",Diesel,SUV,1st Owner
+280,2015,Maruti Suzuki,Swift Dzire AUTOMATI...,5.5 Lakhs,Delhi,"19,800 Kms",Petrol,Sedan,1st Owner
+281,2013,Toyota,Fortuner  3.0 AT 4X2,13.75 Lakhs,Delhi,"72,000 Kms",Diesel,SUV,1st Owner
+282,2019,Jeep,Compass LIMITED PLUS...,18.5 Lakhs,Delhi,"15,000 Kms",Diesel,SUV,1st Owner
+283,2018,Ford,Ecosport TITANIUM + ...,8.9 Lakhs,Delhi,"24,770 Kms",Petrol,SUV,2nd Owner
+284,2016,Toyota,Innova Crysta 2.4 VX...,14.9 Lakhs,Delhi,"59,000 Kms",Diesel,MPV,1st Owner
+285,2016,Maruti Suzuki,Ciaz VDI PLUS MT SHV...,6.75 Lakhs,Delhi,"26,000 Kms",Diesel,Sedan,1st Owner
+286,2016,Ford,Endeavour TITANIUM 2...,24.5 Lakhs,Delhi,"55,000 Kms",Diesel,SUV,1st Owner
+287,2016,Honda,Jazz  1.2 V I VTEC,5.85 Lakhs,Ghaziabad,"65,000 Kms",Petrol,Hatchback,1st Owner
+288,2014,Skoda,Rapid ELEGANCE 1.6 M...,5.75 Lakhs,Delhi,"68,000 Kms",Petrol,Sedan,1st Owner
+289,2012,Hyundai,I10  MAGNA 1.1 LPG,2.9 Lakhs,Ghaziabad,"44,000 Kms",Petrol,Hatchback,1st Owner
+290,2018,Honda,Amaze 1.2 V AT I-VTE...,6.95 Lakhs,Faridabad,"42,000 Kms",Petrol,Sedan,1st Owner
+291,2017,Maruti Suzuki,Swift Dzire  ZDI,6.65 Lakhs,Delhi,"41,000 Kms",Diesel,Sedan,1st Owner
+292,2016,Honda,Jazz  1.2 V I VTEC,5.85 Lakhs,Delhi,"60,290 Kms",Petrol,Hatchback,1st Owner
+293,2016,Volkswagen,Vento HIGHLINE 1.2 P...,6.85 Lakhs,Gurgaon,"47,083 Kms",Petrol,Sedan,2nd Owner
+294,2016,Hyundai,Elite I20 MAGNA EXEC...,5.55 Lakhs,Noida,"60,000 Kms",Petrol,Hatchback,1st Owner
+295,2015,Hyundai,Elite I20  SPORTZ 1.2,5.35 Lakhs,Noida,"63,000 Kms",Petrol,Hatchback,1st Owner
+296,2015,Hyundai,Elite I20  SPORTZ 1.2,5.35 Lakhs,Noida,"53,200 Kms",Petrol,Hatchback,1st Owner
+297,2014,Honda,Amaze  1.2 SMT I VTEC,3.95 Lakhs,Delhi,"42,177 Kms",Petrol,Sedan,1st Owner
+298,2012,Mahindra,Xuv500  W8,4.75 Lakhs,Gurgaon,"81,000 Kms",Diesel,SUV,1st Owner
+299,2012,Maruti Suzuki,Swift  LXI 1.2 BS IV,3.5 Lakhs,Ghaziabad,"77,393 Kms",Petrol,Hatchback,2nd Owner
+300,2017,Toyota,Corolla Altis  1.8 G,11.49 Lakhs,Noida,"45,000 Kms",Petrol,Sedan,1st Owner
+301,2015,Hyundai,Elite I20  ASTA 1.2 O,5.47 Lakhs,Noida,"64,000 Kms",Petrol,Hatchback,1st Owner
+302,2013,Maruti Suzuki,Wagon R  LXI,3.25 Lakhs,Noida,"37,620 Kms",Petrol,Hatchback,1st Owner
+303,2012,Hyundai,I10 SPORTZ 1.2 KAPPA...,3.3 Lakhs,Noida,"70,000 Kms",Petrol,Hatchback,1st Owner
+304,2012,Hyundai,I10 SPORTZ 1.2 KAPPA...,3.3 Lakhs,Noida,"70,348 Kms",Petrol,Hatchback,1st Owner
+305,2017,Renault,Kwid(2015_2019) 1.0 ...,3.75 Lakhs,Delhi,"40,000 Kms",Petrol,Hatchback,1st Owner
+306,2016,Hyundai,Xcent  SX 1.2,4.25 Lakhs,Delhi,"39,175 Kms",Petrol,Sedan,1st Owner
+307,2014,Mahindra,Xuv500  W8,7.15 Lakhs,Gurgaon,"67,733 Kms",Diesel,SUV,1st Owner
+308,2019,Hyundai,Creta SX 1.6 (O) PET...,12.85 Lakhs,Delhi,"16,000 Kms",Petrol,SUV,1st Owner
+309,2019,Maruti Suzuki,S Presso  VXI PLUS,4.5 Lakhs,Ghaziabad,"20,200 Kms",Petrol,Hatchback,1st Owner
+310,2019,Maruti Suzuki,Alto 800  LXI,3.5 Lakhs,Ghaziabad,"13,220 Kms",Petrol,Hatchback,1st Owner
+311,2018,Tata,Nexon  XZ PLUS,8.9 Lakhs,Delhi,"15,000 Kms",Petrol,Hatchback,1st Owner
+312,2016,Toyota,Camry  HYBRID,21 Lakhs,Delhi,"75,000 Kms",Petrol,Sedan,1st Owner
+313,2015,Hyundai,I20 Active  1.4 S,5.65 Lakhs,Delhi,"69,000 Kms",Diesel,Hatchback,1st Owner
+314,2015,Hyundai,Grand I10 MAGNA 1.2 ...,4.1 Lakhs,Faridabad,"45,624 Kms",Petrol,Hatchback,1st Owner
+315,2015,Hyundai,Grand I10 MAGNA 1.2 ...,4.1 Lakhs,Faridabad,"45,624 Kms",Petrol,Hatchback,1st Owner
+316,2020,Honda,City  VX MT PETROL,14 Lakhs,Delhi,"1,800 Kms",Petrol,Sedan,1st Owner
+317,2018,Maruti Suzuki,Swift Dzire  VDI,6.95 Lakhs,Delhi,"32,000 Kms",Diesel,Sedan,1st Owner
+318,2016,Skoda,Octavia ONYX EDITION...,11.5 Lakhs,Delhi,"50,000 Kms",Petrol,Sedan,1st Owner
+319,2018,Ford,Ecosport TITANIUM + ...,8.85 Lakhs,Delhi,"39,539 Kms",Diesel,SUV,1st Owner
+320,2015,Honda,Jazz  1.2 V I VTEC,4.85 Lakhs,Delhi,"19,000 Kms",Petrol,Hatchback,1st Owner
+321,2018,Ford,Figo Aspire TITANIUM...,6.75 Lakhs,Faridabad,"55,000 Kms",Diesel,Sedan,1st Owner
+322,2018,Ford,Aspire TITANIUM 1.5 ...,6.75 Lakhs,Faridabad,"56,821 Kms",Diesel,Sedan,1st Owner
+323,2016,Honda,Amaze 1.2 EXMT I VTE...,4.5 Lakhs,Delhi,"40,000 Kms",CNG,Sedan,1st Owner
+324,2011,Honda,City  1.5 E MT,3.95 Lakhs,Delhi,"45,000 Kms",Petrol,Sedan,1st Owner
+325,2020,Maruti Suzuki,Swift  LXI,5.65 Lakhs,Ghaziabad,"6,212 Kms",Petrol,Hatchback,1st Owner
+326,2018,Honda,Jazz  1.2 VX I VTEC,6.35 Lakhs,Noida,"33,903 Kms",Petrol,Hatchback,1st Owner
+327,2018,Hyundai,Elite I20  SPORTZ 1.4,6.5 Lakhs,Faridabad,"33,000 Kms",Diesel,Hatchback,1st Owner
+328,2016,Maruti Suzuki,Swift  VXI,4.9 Lakhs,Delhi,"23,000 Kms",Petrol,Hatchback,1st Owner
+329,2017,Ford,Figo  TITANIUM 1.2,5.1 Lakhs,Faridabad,"26,900 Kms",Petrol,Hatchback,1st Owner
+330,2017,Renault,Kwid  RXL,2.95 Lakhs,Faridabad,"14,900 Kms",Petrol,Hatchback,1st Owner
+331,2017,Ford,Figo  TITANIUM 1.2,5.1 Lakhs,Faridabad,"26,900 Kms",Petrol,Hatchback,1st Owner
+332,2017,Renault,Kwid  RXL,3.25 Lakhs,Faridabad,"14,900 Kms",Petrol,Hatchback,1st Owner
+333,2018,Honda,Jazz  1.2 VX I VTEC,6.35 Lakhs,Noida,"33,000 Kms",Petrol,Hatchback,1st Owner
+334,2012,Honda,City  1.5 E MT,4.5 Lakhs,Delhi,"20,000 Kms",Petrol,Sedan,1st Owner
+335,2019,Hyundai,Creta  1.6 VTVT S,13 Lakhs,Delhi,"9,515 Kms",Petrol,CompactSUV,1st Owner
+336,2017,Mahindra,Tuv 300  T8 AMT,8.5 Lakhs,Delhi,"17,000 Kms",Diesel,SUV,1st Owner
+337,2017,Volkswagen,Ameo COMFORTLINE PET...,4.95 Lakhs,Delhi,"40,342 Kms",Petrol,Sedan,1st Owner
+338,2013,Volkswagen,Vento TRENDLINE PETR...,3.95 Lakhs,Gurgaon,"47,497 Kms",Petrol,Sedan,1st Owner
+339,2019,Renault,Kwid  RXL,3.7 Lakhs,Gurgaon,"24,000 Kms",Petrol,Hatchback,1st Owner
+340,2018,Honda,City  VX MT PETROL,8.75 Lakhs,Delhi,"38,253 Kms",Petrol,Sedan,1st Owner
+341,2016,Renault,Kwid  RXT,2.95 Lakhs,Noida,"12,000 Kms",Petrol,Hatchback,1st Owner
+342,2016,Honda,City  1.5 S MT,5.95 Lakhs,Gurgaon,"50,935 Kms",Petrol,Sedan,1st Owner
+343,2015,Maruti Suzuki,Swift(2014_2018)  LXI,3.99 Lakhs,Delhi,"60,720 Kms",Petrol,Hatchback,1st Owner
+344,2014,Hyundai,Verna  1.6 VTVT SX,4.99 Lakhs,Delhi,"60,787 Kms",Petrol,Sedan,1st Owner
+345,2018,Datsun,Redi Go  A,3.25 Lakhs,Noida,"44,000 Kms",Petrol,Hatchback,1st Owner
+346,2014,Maruti Suzuki,Ertiga  VXI,5.5 Lakhs,Delhi,"45,000 Kms",Petrol,MUV,1st Owner
+347,2018,Maruti Suzuki,Baleno  ALPHA,6.95 Lakhs,Gurgaon,"46,000 Kms",Petrol,Hatchback,1st Owner
+348,2020,Honda,City  SV MT PETROL,9.65 Lakhs,Delhi,"16,471 Kms",Petrol,Sedan,1st Owner
+349,2018,Maruti Suzuki,Alto K10 VXI AMT AIR...,4.05 Lakhs,Faridabad,"9,688 Kms",Petrol,Hatchback,1st Owner
+350,2018,Maruti Suzuki,Alto K10 VXI AMT AIR...,4.05 Lakhs,Faridabad,"9,688 Kms",Petrol,Hatchback,1st Owner
+351,2017,Renault,Duster RXZ DIESEL 11...,8.95 Lakhs,Gurgaon,"31,000 Kms",Diesel,SUV,1st Owner
+352,2016,Hyundai,I20  ASTA 1.4 CRDI,6.85 Lakhs,Gurgaon,"77,000 Kms",Diesel,Hatchback,2nd Owner
+353,2012,Maruti Suzuki,Zen Estilo LXI CNG B...,2.5 Lakhs,Gurgaon,"60,000 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+354,2019,Renault,Triber  RXZ,5.95 Lakhs,Noida,"19,000 Kms",Petrol,MPV,1st Owner
+355,2019,Ford,Ecosport TITANIUM 1....,11.25 Lakhs,Noida,"12,710 Kms",Petrol,SUV,1st Owner
+356,2018,Tata,Tiago Nrg  PETROL,4.65 Lakhs,Noida,"46,000 Kms",Petrol,Hatchback,1st Owner
+357,2015,Hyundai,Xcent  S 1.2,4.15 Lakhs,Noida,"61,000 Kms",Petrol,Sedan,1st Owner
+358,2017,Hyundai,Grand I10 SPORTZ AT ...,5.75 Lakhs,Delhi,"38,800 Kms",Petrol,Hatchback,1st Owner
+359,2013,Hyundai,Eon  ERA PLUS,2.45 Lakhs,Ghaziabad,"20,000 Kms",Petrol,Hatchback,1st Owner
+360,2013,Hyundai,Eon  ERA PLUS,2.45 Lakhs,Delhi,"20,000 Kms",Petrol,Hatchback,2nd Owner
+361,2018,Datsun,Redi Go  A,3.25 Lakhs,Noida,"44,000 Kms",Petrol,Hatchback,1st Owner
+362,2016,Datsun,Redi Go  T,2.5 Lakhs,Delhi,"34,310 Kms",Petrol,Hatchback,1st Owner
+363,2016,Hyundai,Grand I10 MAGNA 1.2 ...,4.75 Lakhs,Noida,"40,079 Kms",Petrol,Hatchback,1st Owner
+364,2015,Volkswagen,Vento HIGHLINE PETRO...,6.45 Lakhs,Noida,"25,000 Kms",Petrol,Sedan,1st Owner
+365,2014,Renault,Duster  RXL,4.45 Lakhs,Delhi,"57,000 Kms",Petrol,SUV,1st Owner
+366,2012,Nissan,Sunny  XL PETROL,3.75 Lakhs,Faridabad,"46,760 Kms",Petrol,Sedan,1st Owner
+367,2011,Toyota,Corolla Altis  1.8 G,4.25 Lakhs,Faridabad,"70,000 Kms",Petrol,Sedan,2nd Owner
+368,2019,Maruti Suzuki,Baleno  ALPHA,8 Lakhs,Ghaziabad,"20,000 Kms",Petrol,Hatchback,1st Owner
+369,2015,Maruti Suzuki,Alto K10  VXI,3.05 Lakhs,Faridabad,"70,580 Kms",Petrol,Hatchback,1st Owner
+370,2013,Hyundai,I10  ERA 1.1 1RDE2,2.65 Lakhs,Faridabad,"71,906 Kms",Petrol,Hatchback,1st Owner
+371,2013,Hyundai,I10  ERA 1.1 1RDE2,2.65 Lakhs,Faridabad,"71,905 Kms",Petrol,Hatchback,1st Owner
+372,2018,Tata,Tiago  XT,5.3 Lakhs,Delhi,34 Kms,Diesel,Hatchback,1st Owner
+373,2017,Tata,Tiago  XT,5.3 Lakhs,Delhi,25 Kms,Petrol,Hatchback,1st Owner
+374,2016,Toyota,Corolla Altis 1.8 VL...,9.85 Lakhs,Delhi,"65,000 Kms",Petrol,Sedan,1st Owner
+375,2015,Maruti Suzuki,Alto K10  VXI,3.05 Lakhs,Faridabad,"70,580 Kms",Petrol,Hatchback,1st Owner
+376,2018,Maruti Suzuki,Vitara Brezza  LDi,6.6 Lakhs,Gurgaon,"54,000 Kms",Diesel,Hatchback,1st Owner
+377,2017,Maruti Suzuki,Wagon R 1.0  LXI CNG,3.9 Lakhs,Ghaziabad,"48,000 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+378,2016,Maruti Suzuki,Celerio  ZXI A/T,4.55 Lakhs,Faridabad,"27,024 Kms",Petrol,Hatchback,1st Owner
+379,2016,Maruti Suzuki,Celerio  ZXI A/T,4.55 Lakhs,Faridabad,"27,010 Kms",Petrol,Hatchback,1st Owner
+380,2016,Maruti Suzuki,Ritz  LXI BS IV,3 Lakhs,Delhi,"90,000 Kms",Petrol,Hatchback,1st Owner
+381,2015,Maruti Suzuki,Wagon R 1.0  VXI,3.5 Lakhs,Gurgaon,"22,000 Kms",Petrol,Hatchback,1st Owner
+382,2014,Hyundai,I10  MAGNA 1.1 IRDE2,3.15 Lakhs,Faridabad,"31,613 Kms",Petrol,Hatchback,1st Owner
+383,2014,Hyundai,I10  MAGNA 1.1 IRDE2,3.15 Lakhs,Faridabad,"31,628 Kms",Petrol,Hatchback,1st Owner
+384,2014,Maruti Suzuki,Alto 800  LXI,2.55 Lakhs,Gurgaon,"19,440 Kms",Petrol,Hatchback,1st Owner
+385,2014,Hyundai,Grand I10 1.2 KAPPA ...,3.85 Lakhs,Gurgaon,"52,400 Kms",Petrol,Hatchback,1st Owner
+386,2013,Hyundai,I10  MAGNA 1.2 KAPPA2,2.85 Lakhs,Faridabad,"78,562 Kms",Petrol,Hatchback,1st Owner
+387,2013,Hyundai,I10  MAGNA 1.2 KAPPA2,2.85 Lakhs,Faridabad,"78,562 Kms",Petrol,Hatchback,1st Owner
+388,2013,Hyundai,Santro Xing  GLS,2.1 Lakhs,Delhi,"80,000 Kms",Petrol,Hatchback,1st Owner
+389,2013,Hyundai,I10  MAGNA 1.2,3.4 Lakhs,Gurgaon,"52,000 Kms","Petrol
+                                        +  CNG Kit",Hatchback,1st Owner
+390,2011,Volkswagen,Jetta 2.0 TDI HIGHLI...,4 Lakhs,Delhi,1.01 Lakhs Kms,Diesel,Sedan,1st Owner
+391,2016,Datsun,Redi Go  S,2.25 Lakhs,Gurgaon,"59,150 Kms",Petrol,Hatchback,1st Owner
+392,2020,Jeep,Compass LONGITUDE O ...,20.9 Lakhs,Gurgaon,"14,000 Kms",Petrol,SUV,1st Owner
+393,2018,Tata,Nexon XZA PLUS PETRO...,9.45 Lakhs,Delhi,"20,235 Kms",Petrol,Hatchback,1st Owner
+394,2018,Toyota,Innova Crysta 2.7 GX...,16.75 Lakhs,Delhi,"41,043 Kms",Petrol,MPV,1st Owner
+395,2018,Maruti Suzuki,Vitara Brezza ZDI AG...,8.6 Lakhs,Delhi,"55,164 Kms",Diesel,SUV,1st Owner
+396,2017,Maruti Suzuki,Ciaz  SIGMA 1.4 MT,6.65 Lakhs,Noida,"70,000 Kms",Petrol,Sedan,2nd Owner
+397,2012,Honda,Brio  S MT,3.25 Lakhs,Noida,"48,000 Kms",Petrol,Hatchback,1st Owner
+398,2019,Ford,Ecosport TITANIUM 1....,9.9 Lakhs,Gurgaon,"8,213 Kms",Diesel,SUV,1st Owner
+399,2016,Hyundai,Grand I10 MAGNA 1.2 ...,5.75 Lakhs,Ghaziabad,"32,000 Kms","Petrol
+                                        +  CNG Kit",Hatchback,1st Owner
+400,2018,Maruti Suzuki,Baleno  ALPHA,6.95 Lakhs,Gurgaon,"38,000 Kms",Petrol,Hatchback,1st Owner
+401,2017,Maruti Suzuki,Wagon R 1.0  LXI,3.9 Lakhs,Gurgaon,"12,000 Kms",Petrol,Hatchback,1st Owner
+402,2014,Maruti Suzuki,Wagon R 1.0  VXI,3.4 Lakhs,Gurgaon,"28,000 Kms",Petrol,Hatchback,1st Owner
+403,2014,Hyundai,I10 SPORTZ 1.2 KAPPA...,3.25 Lakhs,Gurgaon,"32,000 Kms",Petrol,Hatchback,1st Owner
+404,2013,Hyundai,Eon  MAGNA + O,2.45 Lakhs,Gurgaon,"34,000 Kms",Petrol,Hatchback,1st Owner
+405,2016,Hyundai,Eon  ERA,2.65 Lakhs,Gurgaon,"49,810 Kms",Petrol,Hatchback,1st Owner
+406,2019,Kia,Seltos  HTK 1.5,8.25 Lakhs,Faridabad,"68,100 Kms",Petrol,SUV,1st Owner
+407,2018,Maruti Suzuki,Dzire(2017_2020)  VXI,5.7 Lakhs,Delhi,"72,616 Kms",Petrol,Sedan,1st Owner
+408,2016,Hyundai,I10  MAGNA 1.2,3.75 Lakhs,Ghaziabad,"24,970 Kms",Petrol,Hatchback,1st Owner
+409,2015,Honda,City  VX CVT PETROL,7.75 Lakhs,Ghaziabad,"52,000 Kms",Petrol,Sedan,1st Owner
+410,2015,Honda,Amaze  1.2 SMT I VTEC,5 Lakhs,Ghaziabad,"36,071 Kms",Petrol,Sedan,1st Owner
+411,2018,Maruti Suzuki,Vitara Brezza  ZDi+,7.25 Lakhs,Delhi,1.04 Lakhs Kms,Diesel,Hatchback,1st Owner
+412,2017,Maruti Suzuki,Ciaz  DELTA 1.4 MT,6.65 Lakhs,Noida,"70,000 Kms",Petrol,Sedan,2nd Owner
+413,2018,Hyundai,Creta SX 1.6 AT PETR...,12.49 Lakhs,Noida,"40,000 Kms",Petrol,SUV,1st Owner
+414,2018,Hyundai,Creta SX 1.6 AT PETR...,12.49 Lakhs,Noida,"40,000 Kms",Petrol,SUV,1st Owner
+415,2012,Honda,Brio  S MT,3.25 Lakhs,Noida,"48,000 Kms",Petrol,Hatchback,1st Owner
+416,2014,Maruti Suzuki,Swift  VDI,4.9 Lakhs,Gurgaon,"55,400 Kms",Diesel,Hatchback,1st Owner
+417,2008,Maruti Suzuki,Wagon R  LX MINOR,"85,000",Faridabad,"90,000 Kms",Petrol,Hatchback,2nd Owner
+418,2010,Hyundai,Santro Xing  GLS,1.5 Lakhs,Gurgaon,"88,000 Kms",Petrol,Hatchback,1st Owner
+419,2009,Maruti Suzuki,Wagon R  VXI MINOR,1.1 Lakhs,Delhi,"88,000 Kms",Petrol,Hatchback,1st Owner
+420,2018,Maruti Suzuki,Wagon R 1.0  VXI,3.5 Lakhs,Delhi,"62,000 Kms",Petrol,Hatchback,1st Owner
+421,2013,Mahindra,Verito  1.5 D2 BS IV,3.35 Lakhs,Faridabad,"95,000 Kms",Diesel,Sedan,1st Owner
+422,2013,Hyundai,I20  SPORTZ 1.2 O,,Noida,1.11 Lakhs Kms,Petrol,Hatchback,1st Owner
+423,2016,Hyundai,Creta  1.6 VTVT S,8.25 Lakhs,Delhi,"52,000 Kms",Petrol,CompactSUV,1st Owner
+424,2017,Maruti Suzuki,Ciaz  ZETA 1.4 AT,7.95 Lakhs,Noida,"35,000 Kms",Petrol,Sedan,1st Owner
+425,2016,Mahindra,Xuv 500  W10,11.85 Lakhs,Noida,"35,000 Kms",Diesel,SUV,1st Owner
+426,2015,Honda,City  SV CVT PETROL,6.5 Lakhs,Delhi,"73,097 Kms",Petrol,Sedan,1st Owner
+427,2015,Honda,City  VX CVT PETROL,6.95 Lakhs,Delhi,"84,038 Kms",Petrol,Sedan,1st Owner
+428,2018,Maruti Suzuki,Vitara Brezza  VDi,7 Lakhs,Ghaziabad,"65,000 Kms",Diesel,Hatchback,1st Owner
+429,2016,Mahindra,Xuv 500  W10,7.5 Lakhs,Ghaziabad,"67,554 Kms",Diesel,SUV,1st Owner
+430,2010,Hyundai,Santro Xing  GLS,1.35 Lakhs,Ghaziabad,"65,000 Kms",Petrol,Hatchback,1st Owner
+431,2019,Renault,Kwid  RXL,3.9 Lakhs,Noida,"27,000 Kms",Petrol,Hatchback,1st Owner
+432,2019,Renault,Kwid  RXL,4 Lakhs,Noida,"27,000 Kms",Petrol,Hatchback,1st Owner
+433,2016,Tata,Tiago  REVOTRON XZ,4.85 Lakhs,Noida,"1,673 Kms",Petrol,Hatchback,1st Owner
+434,2017,Maruti Suzuki,Ciaz  ZETA 1.4 AT,7.95 Lakhs,Noida,"39,000 Kms",Petrol,Sedan,1st Owner
+435,2016,Mahindra,Xuv 500  W10 AT FWD,11.85 Lakhs,Noida,"36,000 Kms",Diesel,SUV,1st Owner
+436,2015,Maruti Suzuki,Ciaz  VXI MT,5.95 Lakhs,Noida,"73,000 Kms","Petrol
+                                        +  CNG Kit",Sedan,1st Owner
+437,2014,Hyundai,I10  MAGNA 1.1 IRDE2,3.45 Lakhs,Noida,"49,198 Kms",Petrol,Hatchback,1st Owner
+438,2013,Hyundai,Eon  ERA,2.65 Lakhs,Noida,"40,000 Kms",Petrol,Hatchback,1st Owner
+439,2012,Honda,City  1.5 V AT,4.45 Lakhs,Gurgaon,"70,000 Kms",Petrol,Sedan,2nd Owner
+440,2018,Mahindra,Scorpio  S11 2WD,14.75 Lakhs,Faridabad,"25,500 Kms",Diesel,SUV,1st Owner
+441,2016,Mahindra,Xuv 500  W10,7.5 Lakhs,Delhi,"45,739 Kms",Diesel,SUV,1st Owner
+442,2018,Honda,City  1.5 V MT,8.75 Lakhs,Delhi,"50,937 Kms",Petrol,Sedan,1st Owner
+443,2012,Hyundai,Sonata  2.4 GDI MT,5.25 Lakhs,Delhi,"52,023 Kms",Petrol,Sedan,2nd Owner
+444,2020,Honda,City  VX MT PETROL,14 Lakhs,Delhi,"1,942 Kms",Petrol,Sedan,1st Owner
+445,2019,Tata,Tiago REVOTRON XZ PL...,5.65 Lakhs,Faridabad,"9,109 Kms",Petrol,Hatchback,1st Owner
+446,2015,Hyundai,I10  SPORTZ 1.1 IRDE2,3.2 Lakhs,Delhi,"71,822 Kms",Petrol,Hatchback,1st Owner
+447,2014,Honda,City  VX CVT PETROL,6.75 Lakhs,Delhi,"74,568 Kms",Petrol,Sedan,1st Owner
+448,2017,Maruti Suzuki,Swift Dzire  VXI,6.15 Lakhs,Gurgaon,"14,118 Kms",Petrol,Sedan,1st Owner
+449,2016,Hyundai,Grand I10 SPORTZ AT ...,6 Lakhs,Delhi,"32,031 Kms","Petrol
+                                        +  CNG Kit",Hatchback,1st Owner
+450,2018,Jeep,Compass LIMITED O 1....,18 Lakhs,Delhi,"29,948 Kms",Petrol,SUV,1st Owner
+451,2018,Datsun,Redi Go GOLD LIMITED...,3.75 Lakhs,Noida,"14,000 Kms",Petrol,Hatchback,1st Owner
+452,2017,Volkswagen,Polo  HIGHLINE 1.2L P,6.31 Lakhs,Noida,"22,000 Kms",Petrol,Hatchback,1st Owner
+453,2017,Volkswagen,Polo  HIGHLINE 1.2L P,6.31 Lakhs,Noida,"22,788 Kms",Petrol,Hatchback,1st Owner
+454,2016,Mahindra,Xuv500(2015_2017) W1...,10.95 Lakhs,Noida,"38,000 Kms",Diesel,SUV,1st Owner
+455,2016,Honda,Amaze  1.2 SMT I VTEC,4.9 Lakhs,Delhi,"32,960 Kms",Petrol,Sedan,1st Owner
+456,2015,Maruti Suzuki,Swift Dzire  VXI,4.75 Lakhs,Noida,"43,000 Kms",Petrol,Sedan,1st Owner
+457,2018,Maruti Suzuki,Vitara Brezza  VDi,6.8 Lakhs,Faridabad,"65,545 Kms",Diesel,Hatchback,1st Owner
+458,2017,Honda,Brio  S MT,4.3 Lakhs,Faridabad,"38,000 Kms",Petrol,Hatchback,1st Owner
+459,2016,Maruti Suzuki,Celerio  VXI AMT,4.15 Lakhs,Faridabad,"32,966 Kms",Petrol,Saloon,1st Owner
+460,2012,Nissan,Sunny  XV PETROL,3.75 Lakhs,Faridabad,"46,750 Kms",Petrol,Sedan,1st Owner
+461,2011,Maruti Suzuki,Alto K10  VXI,1.95 Lakhs,Faridabad,"56,080 Kms",Petrol,Hatchback,1st Owner
+462,2017,Hyundai,Verna  1.6 CRDI S,9 Lakhs,Gurgaon,"55,000 Kms",Diesel,Sedan,1st Owner
+463,2017,Ford,Aspire TITANIUM 1.2 ...,5.5 Lakhs,Faridabad,"42,131 Kms",Petrol,Sedan,1st Owner
+464,2017,Honda,Wr V  S MT PETROL,5.85 Lakhs,Delhi,"26,000 Kms",Petrol,SUV,1st Owner
+465,2015,Maruti Suzuki,Swift Dzire  VXI,4.75 Lakhs,Noida,"43,549 Kms",Petrol,Sedan,1st Owner
+466,2013,Hyundai,I20  ASTA 1.2,3.25 Lakhs,Gurgaon,"8,000 Kms",Petrol,Hatchback,1st Owner
+467,2012,Honda,Brio  S MT,5.85 Lakhs,Delhi,"34,055 Kms",Petrol,Hatchback,1st Owner
+468,2011,Maruti Suzuki,Alto K10  VXI,1.95 Lakhs,Faridabad,"56,080 Kms",Petrol,Hatchback,1st Owner
+469,2010,Hyundai,Santro Xing  GLS,1.5 Lakhs,Delhi,"95,000 Kms",Petrol,Hatchback,1st Owner
+470,2019,Maruti Suzuki,Ignis  ALPHA 1.2 AT,6.9 Lakhs,Noida,"6,361 Kms",Petrol,Hatchback,1st Owner
+471,2017,Ford,Figo Aspire TITANIUM...,5.5 Lakhs,Faridabad,"42,131 Kms",Petrol,Sedan,1st Owner
+472,2017,Tata,Tiago  XM,3.95 Lakhs,Faridabad,"58,188 Kms",Petrol,Hatchback,1st Owner
+473,2016,Maruti Suzuki,Celerio  VXI AMT ABS,4.15 Lakhs,Faridabad,"32,411 Kms",Petrol,Hatchback,1st Owner
+474,2016,Maruti Suzuki,Celerio  VXI AMT,4.15 Lakhs,Faridabad,"32,411 Kms",Petrol,Saloon,1st Owner
+475,2016,Mahindra,Kuv100 K8 5 SEATER P...,5.45 Lakhs,Faridabad,"19,126 Kms",Petrol,Hatchback,1st Owner
+476,2013,Nissan,Sunny  XL PETROL,3.75 Lakhs,Faridabad,"68,546 Kms",Petrol,Sedan,1st Owner
+477,2013,Nissan,Sunny  XE,3.75 Lakhs,Faridabad,"65,846 Kms",Diesel,Sedan,1st Owner
+478,2012,Toyota,Etios Liva  GD,2.75 Lakhs,Gurgaon,"18,000 Kms",Diesel,Hatchback,1st Owner
+479,2011,Maruti Suzuki,Wagon R 1.0  LXI CNG,2.45 Lakhs,Faridabad,"72,177 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+480,2011,Maruti Suzuki,Wagon R 1.0  LXI CNG,2.45 Lakhs,Faridabad,"72,177 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+481,2019,Hyundai,Elite I20 MAGNA PLUS...,6.3 Lakhs,Faridabad,"16,800 Kms",Petrol,Hatchback,1st Owner
+482,2017,Maruti Suzuki,Dzire  ZDI PLUS,7.75 Lakhs,Delhi,"29,290 Kms",Diesel,Sedan,1st Owner
+483,2015,Hyundai,I20  SPORTZ 1.2 BS IV,5.25 Lakhs,Delhi,"58,723 Kms",Petrol,Hatchback,1st Owner
+484,2016,Maruti Suzuki,Baleno  ALPHA,7.75 Lakhs,Delhi,657 Kms,Petrol,Hatchback,1st Owner
+485,2015,Ford,Figo Aspire AMBIENTE...,4.55 Lakhs,Noida,"37,000 Kms",Diesel,Sedan,1st Owner
+486,2014,Honda,Amaze  1.2 SMT I VTEC,4.21 Lakhs,Noida,"85,000 Kms",Petrol,Sedan,1st Owner
+487,2014,Honda,Amaze  1.2 SMT I VTEC,4.21 Lakhs,Noida,"85,161 Kms",Petrol,Sedan,1st Owner
+488,2016,Mahindra,Kuv100 K8 5 SEATER P...,4.75 Lakhs,Faridabad,"19,120 Kms",Petrol,Hatchback,1st Owner
+489,2016,Maruti Suzuki,Alto 800  LXI CNG,2.95 Lakhs,Faridabad,"52,412 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+490,2017,Honda,City  VX O MT,7.7 Lakhs,Gurgaon,"38,850 Kms",Petrol,Sedan,1st Owner
+491,2017,Maruti Suzuki,Baleno  SIGMA 1.2,4.95 Lakhs,Gurgaon,"48,348 Kms",Petrol,Hatchback,1st Owner
+492,2016,Maruti Suzuki,Ertiga(2015_2018) VD...,7.25 Lakhs,Delhi,"67,408 Kms",Diesel,MPV,1st Owner
+493,2016,Honda,City  1.5 VX CVT,8.45 Lakhs,Noida,"30,000 Kms",Petrol,Sedan,2nd Owner
+494,2014,Honda,Amaze  SX MT,4.55 Lakhs,Noida,"42,000 Kms",Petrol,Sedan,1st Owner
+495,2019,Jeep,Compass LONGITUDE O ...,15.95 Lakhs,Faridabad,"38,844 Kms",Petrol,SUV,1st Owner
+496,2015,Maruti Suzuki,Ciaz  VDI MT SHVS,5.25 Lakhs,Gurgaon,"87,150 Kms",Diesel,Sedan,1st Owner
+497,2017,Maruti Suzuki,Ertiga  VXI,7.5 Lakhs,Ghaziabad,"10,423 Kms",Petrol,MUV,1st Owner
+498,2013,Hyundai,I10  ERA 1.1 1RDE2,2.55 Lakhs,Gurgaon,"36,272 Kms",Petrol,Hatchback,2nd Owner
+499,2017,Tata,Tiago  XM,3.95 Lakhs,Faridabad,"58,188 Kms",Petrol,Hatchback,1st Owner
+500,2018,Tata,Nexon  XMA PETROL,7.5 Lakhs,Noida,"21,000 Kms",Petrol,Hatchback,1st Owner
+501,2013,Maruti Suzuki,Swift  ZXI,4.55 Lakhs,Noida,"32,000 Kms",Petrol,Hatchback,1st Owner
+502,2017,Maruti Suzuki,Ciaz VDI PLUS MT SHV...,6.45 Lakhs,Delhi,"47,107 Kms",Diesel,Sedan,1st Owner
+503,2015,Maruti Suzuki,Alto 800  LXI,2.65 Lakhs,Ghaziabad,"48,523 Kms",Petrol,Hatchback,1st Owner
+504,2017,Renault,Kwid  CLIMBER 1.0,3.85 Lakhs,Noida,"18,000 Kms",Petrol,Hatchback,1st Owner
+505,2012,Volkswagen,Polo HIGHLINE1.2L PE...,3.6 Lakhs,Noida,"53,000 Kms",Petrol,Hatchback,1st Owner
+506,2011,Ford,Figo  ZXI DURATEC 1.2,2.68 Lakhs,Noida,"76,000 Kms",Petrol,Hatchback,1st Owner
+507,2018,Maruti Suzuki,Baleno  DELTA,5.99 Lakhs,Ghaziabad,"47,107 Kms",Petrol,Hatchback,1st Owner
+508,2018,Tata,Hexa  XM 4X2 7 STR,11.9 Lakhs,Noida,"20,000 Kms",Diesel,SUV,1st Owner
+509,2016,Mahindra,Xuv500(2015_2017) W6...,9.4 Lakhs,Noida,"55,000 Kms",Diesel,SUV,1st Owner
+510,2013,Maruti Suzuki,Swift  VXI,3.7 Lakhs,Gurgaon,"73,015 Kms",Petrol,Hatchback,1st Owner
+511,2013,Maruti Suzuki,Swift  VXI,3.7 Lakhs,Gurgaon,"73,158 Kms",Petrol,Hatchback,1st Owner
+512,2012,Maruti Suzuki,Swift Dzire  LDI,2.8 Lakhs,Gurgaon,"75,415 Kms",Diesel,Sedan,1st Owner
+513,2011,Ford,Figo  ZXI DURATEC 1.2,2.68 Lakhs,Noida,"76,512 Kms",Petrol,Hatchback,1st Owner
+514,2019,Maruti Suzuki,Alto K10  VXI,3.75 Lakhs,Faridabad,"25,569 Kms",Petrol,Hatchback,1st Owner
+515,2017,Renault,Kwid  RXL,2.95 Lakhs,Faridabad,"28,737 Kms",Petrol,Hatchback,1st Owner
+516,2017,Renault,Kwid  RXL,3.2 Lakhs,Faridabad,"28,737 Kms",Petrol,Hatchback,1st Owner
+517,2016,Hyundai,Grand I10 MAGNA 1.2 ...,4.5 Lakhs,Delhi,"41,263 Kms",Petrol,Hatchback,1st Owner
+518,2016,Honda,City  VX MT PETROL,7.5 Lakhs,Delhi,"36,680 Kms",Petrol,Sedan,1st Owner
+519,2014,Maruti Suzuki,Alto 800  LXI CNG,2.55 Lakhs,Faridabad,"70,948 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+520,2019,Tata,Tiago  XZ,5.85 Lakhs,Faridabad,"6,990 Kms",Petrol,Hatchback,1st Owner
+521,2016,Renault,Kwid  RXT,2.65 Lakhs,Delhi,"46,114 Kms",Petrol,Hatchback,2nd Owner
+522,2016,Honda,City  SV CVT PETROL,7.5 Lakhs,Delhi,"30,000 Kms",Petrol,Sedan,1st Owner
+523,2016,Honda,City  SV MT PETROL,6.95 Lakhs,Delhi,"45,808 Kms",Petrol,Sedan,1st Owner
+524,2016,Hyundai,I20 Active  1.2 S,6.25 Lakhs,Ghaziabad,"28,000 Kms",Petrol,Hatchback,1st Owner
+525,2016,Hyundai,I20  ASTA 1.2 O,6.5 Lakhs,Ghaziabad,"43,000 Kms",Petrol,Hatchback,1st Owner
+526,2015,Hyundai,Creta 1.6 VTVT SX PL...,7.95 Lakhs,Delhi,"83,103 Kms",Petrol,CompactSUV,1st Owner
+527,2013,Ford,Fiesta TITANIUM PLUS...,3.5 Lakhs,Ghaziabad,"73,000 Kms",Diesel,Sedan,1st Owner
+528,2012,Hyundai,I20  MAGNA 1.4 CRDI,3.5 Lakhs,Ghaziabad,"66,000 Kms",Diesel,Hatchback,2nd Owner
+529,2018,Tata,Nexon  XM,6.95 Lakhs,Noida,"30,000 Kms",Petrol,Hatchback,1st Owner
+530,2011,Hyundai,I20  MAGNA 1.2,3.5 Lakhs,Delhi,"44,213 Kms",Petrol,Hatchback,1st Owner
+531,2011,Hyundai,I20  MAGNA 1.2,3.5 Lakhs,Ghaziabad,"44,000 Kms",Petrol,Hatchback,1st Owner
+532,2014,Skoda,Rapid AMBITION 1.6 M...,4.95 Lakhs,Noida,"59,322 Kms",Petrol,Sedan,1st Owner
+533,2012,Honda,Brio  S MT,3.25 Lakhs,Noida,"34,000 Kms",Petrol,Hatchback,1st Owner
+534,2011,Hyundai,I10  MAGNA 1.2,2.75 Lakhs,Noida,"39,000 Kms",Petrol,Hatchback,1st Owner
+535,2015,Nissan,Sunny  XL PETROL,4.85 Lakhs,Gurgaon,"44,810 Kms",Petrol,Sedan,1st Owner
+536,2013,Hyundai,I10  MAGNA 1.2,2.55 Lakhs,Gurgaon,"56,620 Kms",Petrol,Hatchback,1st Owner
+537,2012,Maruti Suzuki,Wagon R 1.0  VXI,2.75 Lakhs,Gurgaon,"35,828 Kms",Petrol,Hatchback,1st Owner
+538,2019,Tata,Tiago  XZ,5.85 Lakhs,Faridabad,"6,989 Kms",Petrol,Hatchback,1st Owner
+539,2019,Maruti Suzuki,Vitara Brezza  ZDi,8.65 Lakhs,Noida,"30,000 Kms",Diesel,Hatchback,1st Owner
+540,2019,Maruti Suzuki,Vitara Brezza  ZDi,8.65 Lakhs,Noida,"31,753 Kms",Diesel,Hatchback,1st Owner
+541,2018,Hyundai,Grand I10 1.2 KAPPA ...,4.85 Lakhs,Ghaziabad,"53,826 Kms",Petrol,Hatchback,1st Owner
+542,2017,Maruti Suzuki,Swift Dzire 1.2 ZXI ...,7.5 Lakhs,Gurgaon,156 Kms,Petrol,Sedan,1st Owner
+543,2017,Maruti Suzuki,Dzire  ZXI PLUS AMT,7.5 Lakhs,Gurgaon,239 Kms,Petrol,Sedan,1st Owner
+544,2019,Tata,Nexon  XZ PLUS,8.95 Lakhs,Noida,"6,068 Kms",Petrol,Hatchback,1st Owner
+545,2014,Toyota,Etios Liva  G SP,3.75 Lakhs,Noida,"73,000 Kms",Petrol,Hatchback,2nd Owner
+546,2013,Maruti Suzuki,Ritz  LXI BS IV,3.33 Lakhs,Faridabad,"42,075 Kms",Petrol,Hatchback,1st Owner
+547,2012,Hyundai,I20  MAGNA 1.4 CRDI,3.5 Lakhs,Delhi,"65,233 Kms",Diesel,Hatchback,2nd Owner
+548,2018,Hyundai,Grand I10 MAGNA 1.2 ...,5.25 Lakhs,Noida,"7,700 Kms",Petrol,Hatchback,1st Owner
+549,2019,Renault,Kwid  1.0 RXT AMT O,4.8 Lakhs,Noida,"11,836 Kms",Petrol,Hatchback,1st Owner
+550,2016,Toyota,Fortuner  3.0 AT 4X4,18.5 Lakhs,Delhi,"89,516 Kms",Diesel,SUV,1st Owner
+551,2014,Toyota,Etios Liva  G,3.75 Lakhs,Noida,"74,161 Kms",Petrol,Hatchback,2nd Owner
+552,2019,Renault,Kwid  RXT OPT,4.8 Lakhs,Noida,"11,000 Kms",Petrol,Hatchback,1st Owner
+553,2018,Maruti Suzuki,Ciaz  ZETA 1.4 MT,7.5 Lakhs,Delhi,"20,022 Kms",Petrol,Sedan,1st Owner
+554,2014,Hyundai,Eon  ERA PLUS,2.18 Lakhs,Faridabad,"46,992 Kms",Petrol,Hatchback,1st Owner
+555,2014,Honda,Amaze  1.2 SMT I VTEC,4.65 Lakhs,Noida,"58,000 Kms",Petrol,Sedan,1st Owner
+556,2013,Ford,Figo ZXI DURATORQ 1....,2.55 Lakhs,Faridabad,"86,565 Kms",Diesel,Hatchback,1st Owner
+557,2018,Datsun,Redi Go  T O,2.85 Lakhs,Delhi,"7,090 Kms",Petrol,Hatchback,1st Owner
+558,2018,Maruti Suzuki,Swift  ZXI +,6.75 Lakhs,Faridabad,"12,582 Kms",Petrol,Hatchback,1st Owner
+559,2019,Maruti Suzuki,Alto K10  VXI,3.75 Lakhs,Faridabad,"25,569 Kms",Petrol,Hatchback,1st Owner
+560,2018,Maruti Suzuki,Swift  ZXI,6.45 Lakhs,Faridabad,"12,582 Kms",Petrol,Hatchback,1st Owner
+561,2012,Hyundai,I10  ERA 1.1 1RDE2,2.45 Lakhs,Gurgaon,"76,000 Kms",Petrol,Hatchback,2nd Owner
+562,2018,Hyundai,Creta  1.6E PLUS,9.5 Lakhs,Delhi,"57,220 Kms",Petrol,SUV,1st Owner
+563,2013,Hyundai,I20  SPORTZ 1.4 CRDI,3.55 Lakhs,Gurgaon,"94,121 Kms",Diesel,Hatchback,1st Owner
+564,2019,Maruti Suzuki,Swift  ZXI +,7.9 Lakhs,Gurgaon,230 Kms,Petrol,Hatchback,1st Owner
+565,2018,Mahindra,Scorpio  S7 120 2WD,11.9 Lakhs,Delhi,"71,069 Kms",Diesel,SUV,1st Owner
+566,2018,Maruti Suzuki,Ciaz  ZETA 1.4 MT,7.95 Lakhs,Delhi,"35,328 Kms",Petrol,Sedan,1st Owner
+567,2018,Ford,"Figo TITANIUM +
+ 1....",6.45 Lakhs,Faridabad,"35,261 Kms",Diesel,Hatchback,1st Owner
+568,2014,Hyundai,Eon  ERA + SE,2.45 Lakhs,Delhi,"54,482 Kms",Petrol,Hatchback,1st Owner
+569,2013,Ford,Fiesta Classic CLXI ...,3.5 Lakhs,Delhi,"74,331 Kms",Diesel,Sedan,1st Owner
+570,2012,Hyundai,I10  MAGNA 1.2,3.25 Lakhs,Delhi,"44,127 Kms",Petrol,Hatchback,1st Owner
+571,2016,Hyundai,Xcent  SX 1.2,4.95 Lakhs,Noida,"38,000 Kms",Petrol,Sedan,1st Owner
+572,2015,Skoda,Rapid ELEGANCE 1.6 M...,6.5 Lakhs,Noida,"33,000 Kms",Petrol,Sedan,1st Owner
+573,2013,Hyundai,I10  MAGNA 1.2,3.25 Lakhs,Noida,"29,000 Kms",Petrol,Hatchback,2nd Owner
+574,2019,Renault,Kwid  RXL,3.65 Lakhs,Faridabad,"14,214 Kms",Petrol,Hatchback,1st Owner
+575,2019,Renault,Kwid  RXL,3.65 Lakhs,Faridabad,"14,214 Kms",Petrol,Hatchback,1st Owner
+576,2017,Renault,Kwid  CLIMBER 1.0 AMT,4.45 Lakhs,Faridabad,"31,640 Kms",Petrol,Hatchback,1st Owner
+577,2017,Renault,Kwid  CLIMBER 1.0 AMT,3.95 Lakhs,Faridabad,"31,640 Kms",Petrol,Hatchback,1st Owner
+578,2017,Maruti Suzuki,Celerio  ZXI A/T,4.85 Lakhs,Noida,"43,902 Kms",Petrol,Hatchback,1st Owner
+579,2016,Maruti Suzuki,Ciaz VDI PLUS MT SHV...,6.75 Lakhs,Faridabad,"72,435 Kms",Diesel,Sedan,1st Owner
+580,2016,Maruti Suzuki,Ciaz VDI PLUS MT SHV...,6.95 Lakhs,Faridabad,"72,594 Kms",Diesel,Sedan,1st Owner
+581,2016,Maruti Suzuki,Celerio  ZXI A/T,4.25 Lakhs,Faridabad,"59,374 Kms",Petrol,Hatchback,1st Owner
+582,2016,Maruti Suzuki,Celerio  ZXI A/T,4.45 Lakhs,Faridabad,"59,374 Kms",Petrol,Hatchback,1st Owner
+583,2015,Maruti Suzuki,Alto  VXI,2.5 Lakhs,Faridabad,"87,977 Kms","Petrol
+                                        +  CNG Kit",Hatchback,2nd Owner
+584,2013,Hyundai,Eon  ERA PLUS,2.65 Lakhs,Noida,"41,707 Kms",Petrol,Hatchback,1st Owner
+585,2018,Maruti Suzuki,Vitara Brezza  ZDi+,8.4 Lakhs,Delhi,"19,014 Kms",Diesel,Hatchback,1st Owner
+586,2013,Hyundai,Verna  1.6 CRDI SX,4.5 Lakhs,Ghaziabad,"69,240 Kms",Diesel,Sedan,2nd Owner
+587,2013,Maruti Suzuki,Alto 800 ALTO 800 VX...,2.38 Lakhs,Gurgaon,"60,690 Kms",Petrol,Hatchback,1st Owner
+588,2013,Hyundai,Eon  MAGNA PLUS,2.7 Lakhs,Noida,"57,000 Kms",Petrol,Hatchback,1st Owner
+589,2016,Mahindra,E2o Plus  P6,3.95 Lakhs,Delhi,"29,852 Kms",Electric,Hatchback,1st Owner
+590,2018,Maruti Suzuki,Alto 800  LXI,3.2 Lakhs,Ghaziabad,"28,394 Kms",Petrol,Hatchback,1st Owner
+591,2013,Hyundai,Eon  ERA PLUS,2.65 Lakhs,Noida,"41,000 Kms",Petrol,Hatchback,1st Owner
+592,2012,Chevrolet,Beat  LT DIESEL,1.35 Lakhs,Gurgaon,"87,514 Kms",Diesel,Hatchback,2nd Owner
+593,2015,Hyundai,Eon  ERA PLUS,2.95 Lakhs,Noida,"66,602 Kms",Petrol,Hatchback,1st Owner
+594,2019,Ford,Ecosport TITANIUM 1....,9.75 Lakhs,Delhi,"7,610 Kms",Diesel,SUV,1st Owner
+595,2018,Ford,"Figo TITANIUM +
+ 1....",6.45 Lakhs,Faridabad,"36,157 Kms",Diesel,Hatchback,1st Owner
+596,2016,Hyundai,Grand I10 SPORTZ 1.2...,4.45 Lakhs,Delhi,"71,824 Kms",Petrol,Hatchback,1st Owner
+597,2015,Hyundai,I20 Active  1.2 SX,6.25 Lakhs,Delhi,"51,645 Kms",Petrol,Hatchback,1st Owner
+598,2017,Maruti Suzuki,Swift Dzire  VXI,6.25 Lakhs,Gurgaon,"14,138 Kms",Petrol,Sedan,1st Owner
+599,2015,Audi,Q3 35 TDI PREMIUM PL...,23.5 Lakhs,Delhi,"12,861 Kms",Diesel,SUV,1st Owner
+600,2015,Honda,City  SV MT PETROL,6.9 Lakhs,Faridabad,"39,029 Kms",Petrol,Sedan,1st Owner
+601,2017,Mahindra,Kuv100 K4 6 SEATER D...,4.45 Lakhs,Delhi,"43,550 Kms",Diesel,Hatchback,1st Owner
+602,2019,Hyundai,Grand I10 SPORTZ 1.2...,5.75 Lakhs,Delhi,"15,746 Kms",Petrol,Hatchback,1st Owner
+603,2015,Maruti Suzuki,Alto 800  LXI,2.45 Lakhs,Faridabad,"54,284 Kms",Petrol,Hatchback,1st Owner
+604,2012,Hyundai,I10  ERA 1.1 1RDE2,2.99 Lakhs,Ghaziabad,"48,526 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+605,2012,Maruti Suzuki,Swift Dzire  LXI,3.65 Lakhs,Ghaziabad,"20,734 Kms",Petrol,Sedan,1st Owner
+606,2018,Maruti Suzuki,Swift Dzire  VXI,6.19 Lakhs,Ghaziabad,"32,880 Kms",Petrol,Sedan,1st Owner
+607,2015,Maruti Suzuki,Ciaz  VXI PLUS MT,5.95 Lakhs,Delhi,"48,125 Kms",Petrol,Sedan,1st Owner
+608,2015,Honda,City  1.5 S MT,6.5 Lakhs,Ghaziabad,"41,300 Kms",Petrol,Sedan,1st Owner
+609,2016,Maruti Suzuki,Celerio  ZXI AMT,4.5 Lakhs,Gurgaon,"26,024 Kms",Petrol,Hatchback,1st Owner
+610,2017,Mahindra,Kuv100 K4 PLUS 6 SEA...,4.85 Lakhs,Noida,"5,600 Kms",Petrol,Hatchback,1st Owner
+611,2012,Toyota,Corolla Altis G DIES...,3.95 Lakhs,Gurgaon,"89,289 Kms",Diesel,Sedan,1st Owner
+612,2016,Honda,Jazz  S,5.75 Lakhs,Ghaziabad,"11,220 Kms",Petrol,Hatchback,2nd Owner
+613,2016,Maruti Suzuki,Alto K10  VXI,3.35 Lakhs,Faridabad,"37,379 Kms",Petrol,Hatchback,1st Owner
+614,2016,Maruti Suzuki,Alto K10  VXI,3.25 Lakhs,Faridabad,"37,379 Kms",Petrol,Hatchback,1st Owner
+615,2012,Maruti Suzuki,Wagon R  LXI,2.5 Lakhs,Gurgaon,"77,822 Kms","Petrol
+                                        +  CNG Kit",Hatchback,2nd Owner
+616,2018,Hyundai,Elite I20  SPORTZ 1.2,7 Lakhs,Delhi,"48,270 Kms",Petrol,Hatchback,1st Owner
+617,2015,Skoda,Rapid AMBITION 1.6 M...,5.1 Lakhs,Gurgaon,"49,914 Kms",Petrol,Sedan,2nd Owner
+618,2015,Chevrolet,Beat  LT PETROL,2.75 Lakhs,Faridabad,"37,012 Kms",Petrol,Hatchback,1st Owner
+619,2015,Chevrolet,Beat  LT PETROL,2.45 Lakhs,Faridabad,"37,972 Kms",Petrol,Hatchback,1st Owner
+620,2013,Ford,Figo LXI DURATORQ 1....,2.35 Lakhs,Gurgaon,"77,493 Kms",Diesel,Hatchback,1st Owner
+621,2013,Hyundai,I20  SPORTZ 1.4 CRDI,3.35 Lakhs,Gurgaon,"77,391 Kms",Diesel,Hatchback,2nd Owner
+622,2011,Hyundai,I10  MAGNA 1.2 KAPPA2,2.15 Lakhs,Gurgaon,"63,507 Kms",Petrol,Hatchback,1st Owner
+623,2017,Maruti Suzuki,Ciaz  SIGMA 1.4 MT,6.85 Lakhs,Noida,"33,000 Kms",Petrol,Sedan,1st Owner
+624,2014,Chevrolet,Sail  1.3 LS,2 Lakhs,Faridabad,"50,502 Kms",Diesel,Sedan,2nd Owner
+625,2019,Kia,Seltos  GTX PLUS 1.4,17.35 Lakhs,Delhi,"9,400 Kms",Petrol,SUV,1st Owner
+626,2017,Maruti Suzuki,Ciaz  SIGMA 1.4 MT,6.85 Lakhs,Noida,"33,339 Kms",Petrol,Sedan,1st Owner
+627,2017,Honda,Jazz  1.2 V AT I VTEC,5.85 Lakhs,Delhi,"76,180 Kms",Petrol,Hatchback,2nd Owner
+628,2015,Mahindra,Scorpio  S8,8.25 Lakhs,Gurgaon,"95,000 Kms",Diesel,SUV,1st Owner
+629,2013,Maruti Suzuki,Ritz  LXI BS IV,3.5 Lakhs,Delhi,"69,817 Kms",Petrol,Hatchback,1st Owner
+630,2018,Honda,Jazz  1.5 SV I DTEC,5.95 Lakhs,Faridabad,"27,567 Kms",Diesel,Hatchback,2nd Owner
+631,2017,Maruti Suzuki,Dzire  VDI AMT,6.5 Lakhs,Faridabad,"42,157 Kms",Diesel,Sedan,1st Owner
+632,2016,Maruti Suzuki,Alto K10  LXI CNG,2.85 Lakhs,Faridabad,"53,228 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+633,2011,Skoda,Fabia AMBIENTE 1.2 M...,2.55 Lakhs,Faridabad,"71,395 Kms",Petrol,Hatchback,1st Owner
+634,2019,Datsun,Redi Go  T O,3.35 Lakhs,Faridabad,"7,599 Kms",Petrol,Hatchback,1st Owner
+635,2013,Honda,Amaze  1.5 SMT I DTEC,3.3 Lakhs,Delhi,"68,957 Kms",Diesel,Sedan,1st Owner
+636,2018,Maruti Suzuki,Wagon R 1.0  LXI CNG,4.65 Lakhs,Ghaziabad,"41,253 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+637,2011,Skoda,Fabia AMBITION 1.2 M...,2.55 Lakhs,Faridabad,"71,397 Kms",Petrol,Hatchback,1st Owner
+638,2019,Datsun,Redi Go  T O,3.05 Lakhs,Faridabad,"7,595 Kms",Petrol,Hatchback,1st Owner
+639,2017,Renault,Kwid  RXT,2.98 Lakhs,Gurgaon,"49,464 Kms",Petrol,Hatchback,1st Owner
+640,2012,Honda,City  1.5 S MT,4.45 Lakhs,Noida,"68,504 Kms",Petrol,Sedan,1st Owner
+641,2012,Honda,City  1.5 S MT,4.45 Lakhs,Noida,"68,000 Kms",Petrol,Sedan,1st Owner
+642,2017,Mahindra,Tuv 300  T10,8.65 Lakhs,Noida,"18,220 Kms",Diesel,SUV,1st Owner
+643,2017,Maruti Suzuki,Baleno  DELTA 1.3,5.77 Lakhs,Noida,"48,000 Kms",Diesel,Hatchback,1st Owner
+644,2012,Toyota,Corolla Altis  1.8 G,4.5 Lakhs,Delhi,"83,234 Kms",Petrol,Sedan,1st Owner
+645,2017,Maruti Suzuki,Baleno  DELTA 1.3,5.77 Lakhs,Noida,"48,383 Kms",Diesel,Hatchback,1st Owner
+646,2016,Maruti Suzuki,Wagon R 1.0  LXI CNG,3.6 Lakhs,Faridabad,"78,122 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+647,2018,Hyundai,Creta SX 1.6 (O) PET...,12.5 Lakhs,Delhi,"40,000 Kms",Petrol,SUV,1st Owner
+648,2018,Maruti Suzuki,Alto 800  LXI CNG,3.5 Lakhs,Ghaziabad,"31,412 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+649,2015,Honda,Jazz  1.2 S AT I VTEC,4.95 Lakhs,Noida,"67,000 Kms",Petrol,Hatchback,1st Owner
+650,2012,Hyundai,I20  SPORTZ 1.2 BS IV,3.5 Lakhs,Ghaziabad,"58,746 Kms",Petrol,Hatchback,1st Owner
+651,2019,Ford,Ecosport TITANIUM 1....,10.5 Lakhs,Delhi,"41,633 Kms",Petrol,SUV,1st Owner
+652,2018,Hyundai,Verna FLUIDIC 1.6 SX...,12.5 Lakhs,Delhi,"14,741 Kms",Diesel,Sedan,1st Owner
+653,2017,Mahindra,Xuv 500  W10,12.75 Lakhs,Ghaziabad,"54,448 Kms",Diesel,SUV,1st Owner
+654,2016,Mahindra,Xuv500  W8,10.5 Lakhs,Delhi,"65,348 Kms",Diesel,SUV,1st Owner
+655,2018,Datsun,Redi Go  T O,3.3 Lakhs,Noida,"5,504 Kms",Petrol,Hatchback,1st Owner
+656,2014,Maruti Suzuki,Swift  VXI,4.15 Lakhs,Noida,"33,654 Kms",Petrol,Hatchback,1st Owner
+657,2017,Ford,Figo Aspire TITANIUM...,6.75 Lakhs,Faridabad,"22,597 Kms",Petrol,Sedan,1st Owner
+658,2017,Ford,Figo Aspire TITANIUM...,6.25 Lakhs,Faridabad,"22,594 Kms",Petrol,Sedan,1st Owner
+659,2013,Toyota,Etios  G,3.45 Lakhs,Delhi,"40,765 Kms",Petrol,Sedan,1st Owner
+660,2016,Maruti Suzuki,Baleno  ZETA AT 1.2,6.15 Lakhs,Faridabad,"47,010 Kms",Petrol,Hatchback,1st Owner
+661,2016,Maruti Suzuki,Baleno  ZETA AT 1.2,6.15 Lakhs,Faridabad,"47,061 Kms",Petrol,Hatchback,1st Owner
+662,2018,Maruti Suzuki,Vitara Brezza VDI AG...,8.25 Lakhs,Noida,"69,400 Kms",Diesel,SUV,1st Owner
+663,2017,Volkswagen,Vento HIGHLINE 1.5 D...,9 Lakhs,Delhi,"39,030 Kms",Diesel,Sedan,1st Owner
+664,2015,Honda,Jazz  1.2 S AT I VTEC,4.95 Lakhs,Noida,"68,065 Kms",Petrol,Hatchback,1st Owner
+665,2014,Hyundai,Verna  1.4 GL CRDI MT,5.75 Lakhs,Delhi,"55,916 Kms",Diesel,Sedan,1st Owner
+666,2013,Maruti Suzuki,A Star  LXI,2.35 Lakhs,Faridabad,"68,532 Kms",Petrol,Hatchback,1st Owner
+667,2012,Renault,Pulse  RX L PETROL,2.65 Lakhs,Gurgaon,"55,224 Kms",Petrol,Hatchback,1st Owner
+668,2019,Renault,Kwid  RXL,3.75 Lakhs,Noida,"13,748 Kms",Petrol,Hatchback,1st Owner
+669,2014,Hyundai,I10  MAGNA 1.2,3.15 Lakhs,Gurgaon,"57,224 Kms",Petrol,Hatchback,1st Owner
+670,2016,Mahindra,Kuv100 K6 PLUS 6 SEA...,4.65 Lakhs,Ghaziabad,"58,660 Kms",Diesel,Hatchback,1st Owner
+671,2013,Maruti Suzuki,A Star  LXI,2.35 Lakhs,Faridabad,"68,532 Kms",Petrol,Hatchback,1st Owner
+672,2011,Nissan,Micra  XV PETROL,2.77 Lakhs,Noida,"70,000 Kms",Petrol,Hatchback,1st Owner
+673,2012,Nissan,Micra  XL PETROL,2.9 Lakhs,Noida,"46,350 Kms",Petrol,Hatchback,1st Owner
+674,2011,Nissan,Micra  XV PETROL,2.77 Lakhs,Noida,"70,950 Kms",Petrol,Hatchback,1st Owner
+675,2016,Volkswagen,Ameo 1.2 MPI ANNIVER...,4.49 Lakhs,Noida,"51,529 Kms",Petrol,Sedan,1st Owner
+676,2015,Maruti Suzuki,Ciaz  VXI MT,5.85 Lakhs,Gurgaon,"49,098 Kms",Petrol,Sedan,1st Owner
+677,2013,Toyota,Corolla Altis G DIES...,6.5 Lakhs,Ghaziabad,"62,742 Kms",Diesel,Sedan,1st Owner
+678,2016,Volkswagen,Ameo 1.2 MPI ANNIVER...,4.49 Lakhs,Noida,"51,000 Kms",Petrol,Sedan,1st Owner
+679,2012,Toyota,Etios Liva  G SP,2.95 Lakhs,Delhi,"69,328 Kms",Petrol,Hatchback,1st Owner
+680,2016,Maruti Suzuki,Baleno  DELTA AT 1.2,5.5 Lakhs,Delhi,"31,581 Kms",Petrol,Hatchback,1st Owner
+681,2015,Maruti Suzuki,Ciaz  VDI MT SHVS,5.78 Lakhs,Noida,"63,314 Kms",Diesel,Sedan,1st Owner
+682,2015,Maruti Suzuki,Ciaz  VDI MT SHVS,5.78 Lakhs,Noida,"63,000 Kms",Diesel,Sedan,1st Owner
+683,2014,Hyundai,Eon  ERA PLUS,2.35 Lakhs,Faridabad,"46,903 Kms",Petrol,Hatchback,1st Owner
+684,2015,Hyundai,Verna  1.6 SX CRDI AT,6.65 Lakhs,Gurgaon,"52,323 Kms",Diesel,Sedan,1st Owner
+685,2016,Maruti Suzuki,Eeco 5 STR CNG WITH ...,3.35 Lakhs,Delhi,"53,748 Kms",CNG,Van,1st Owner
+686,2011,Honda,City  1.5 V MT,3.95 Lakhs,Gurgaon,"40,991 Kms",Petrol,Sedan,2nd Owner
+687,2007,Maruti Suzuki,Sx4  VXI,1.6 Lakhs,Gurgaon,1.38 Lakhs Kms,Petrol,Sedan,1st Owner
+688,2009,Hyundai,I20  MAGNA 1.2,2.45 Lakhs,Noida,"60,000 Kms",Petrol,Hatchback,2nd Owner
+689,2014,Mercedes Benz,C Class C 200 AVANTG...,15.5 Lakhs,Delhi,"27,573 Kms",Petrol,Sedan,2nd Owner
+690,2010,Hyundai,I20  SPORTZ 1.2 BS IV,2.45 Lakhs,Faridabad,"75,236 Kms",Petrol,Hatchback,1st Owner
+691,2010,Hyundai,I20  SPORTZ 1.2 BS IV,2.45 Lakhs,Faridabad,"75,236 Kms",Petrol,Hatchback,1st Owner
+692,2010,Hyundai,I10  ERA,1.85 Lakhs,Delhi,"19,000 Kms",Petrol,Hatchback,1st Owner
+693,2013,Hyundai,I20  MAGNA O 1.2,3.75 Lakhs,Delhi,"76,933 Kms",Petrol,Hatchback,1st Owner
+694,2010,Hyundai,I10  MAGNA 1.2,2.65 Lakhs,Ghaziabad,"26,500 Kms",Petrol,Hatchback,1st Owner
+695,2010,Hyundai,I10  MAGNA 1.2,2.65 Lakhs,Delhi,"26,858 Kms",Petrol,Hatchback,1st Owner
+696,2011,Maruti Suzuki,Swift  VXI 1.2 BS IV,2.7 Lakhs,Gurgaon,"81,250 Kms","Petrol
+                                        +  CNG Kit",Hatchback,2nd Owner
+697,2010,Honda,City  1.5 V MT,3.25 Lakhs,Delhi,"80,000 Kms",Petrol,Sedan,2nd Owner
+698,2017,Maruti Suzuki,Wagon R 1.0  LXI CNG,4 Lakhs,Ghaziabad,"69,000 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+699,2013,Toyota,Fortuner  3.0 AT 4X2,12.1 Lakhs,Delhi,1.15 Lakhs Kms,Diesel,SUV,1st Owner
+700,2011,Hyundai,Santro Xing  GL,,Noida,"67,980 Kms",Petrol,Hatchback,2nd Owner
+701,2010,Toyota,Corolla Altis 1.8 G ...,3.65 Lakhs,Faridabad,"66,918 Kms","CNG
+                                        +  CNG Kit",Sedan,2nd Owner
+702,2010,Toyota,Corolla Altis 1.8 G ...,3.65 Lakhs,Faridabad,"66,918 Kms","CNG
+                                        +  CNG Kit",Sedan,2nd Owner
+703,2019,Tata,Nexon  XZ PLUS,6.87 Lakhs,Delhi,"42,977 Kms",Petrol,Hatchback,1st Owner
+704,2019,Tata,Nexon  XM,7.25 Lakhs,Noida,"25,000 Kms",Petrol,Hatchback,1st Owner
+705,2016,Maruti Suzuki,Baleno  ALPHA,5.45 Lakhs,Noida,"42,185 Kms",Petrol,Hatchback,1st Owner
+706,2014,Hyundai,Grand I10 MAGNA 1.1 ...,3.1 Lakhs,Faridabad,"75,323 Kms",Diesel,Hatchback,1st Owner
+707,2018,Maruti Suzuki,Baleno  DELTA,5.85 Lakhs,Noida,"32,090 Kms",Petrol,Hatchback,1st Owner
+708,2010,Ford,Figo DURATEC TITANIU...,2.55 Lakhs,Noida,"74,000 Kms",Petrol,Hatchback,1st Owner
+709,2009,Honda,City  E,2.95 Lakhs,Noida,"82,000 Kms",Petrol,Sedan,2nd Owner
+710,2014,Hyundai,Grand I10 MAGNA 1.1 ...,3.1 Lakhs,Faridabad,"75,323 Kms",Diesel,Hatchback,1st Owner
+711,2011,Maruti Suzuki,Zen Estilo  LXI BS IV,2.1 Lakhs,Faridabad,"39,394 Kms",Petrol,Hatchback,1st Owner
+712,2011,Maruti Suzuki,Zen Estilo  LXI BS IV,2.1 Lakhs,Faridabad,"39,394 Kms",Petrol,Hatchback,1st Owner
+713,2014,Toyota,Corolla Altis  1.8 G,8.25 Lakhs,Gurgaon,"69,149 Kms",Petrol,Sedan,2nd Owner
+714,2015,Hyundai,Grand I10 ERA 1.1 CR...,2.8 Lakhs,Faridabad,"70,990 Kms",Diesel,Hatchback,3rd Owner
+715,2014,Toyota,Etios Liva  V,3 Lakhs,Faridabad,"80,530 Kms",Diesel,Hatchback,1st Owner
+716,2011,Honda,Accord  2.4 AT,5.45 Lakhs,Delhi,"80,000 Kms",Petrol,Sedan,1st Owner
+717,2011,Honda,City  1.5 S MT,3.85 Lakhs,Noida,"60,665 Kms","Petrol
+                                        +  CNG Kit",Sedan,1st Owner
+718,2018,Maruti Suzuki,Ciaz  ALPHA 1.4 MT,8.5 Lakhs,Ghaziabad,"26,000 Kms",Petrol,Sedan,1st Owner
+719,2016,Toyota,Innova Crysta 2.4 GX...,14.9 Lakhs,Delhi,"85,000 Kms",Diesel,MPV,1st Owner
+720,2015,Maruti Suzuki,Wagon R 1.0  LXI CNG,3.5 Lakhs,Ghaziabad,"59,471 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+721,2014,Hyundai,I20  SPORTZ 1.4 CRDI,4.45 Lakhs,Delhi,"78,000 Kms",Diesel,Hatchback,2nd Owner
+722,2013,Honda,City  1.5 V MT,4.45 Lakhs,Delhi,"76,400 Kms",Petrol,Sedan,1st Owner
+723,2012,Honda,Jazz  X,3.55 Lakhs,Noida,"84,000 Kms",Petrol,Hatchback,2nd Owner
+724,2015,Hyundai,Creta 1.6 VTVT SX PL...,7.25 Lakhs,Delhi,1.12 Lakhs Kms,Petrol,CompactSUV,1st Owner
+725,2015,Maruti Suzuki,Swift  VXI,4.25 Lakhs,Ghaziabad,"50,000 Kms",Petrol,Hatchback,1st Owner
+726,2014,Maruti Suzuki,Ciaz  ZXI MT,5.5 Lakhs,Delhi,"75,000 Kms",Petrol,Sedan,1st Owner
+727,2016,Mahindra,E2o  T2,3.95 Lakhs,Delhi,"15,000 Kms",Electric,Hatchback,1st Owner
+728,2011,Hyundai,I10  MAGNA 1.1 IRDE2,2.75 Lakhs,Noida,"98,153 Kms",Petrol,Hatchback,1st Owner
+729,2018,Ford,Endeavour TITANIUM 3...,29 Lakhs,Delhi,1.22 Lakhs Kms,Diesel,SUV,1st Owner
+730,2017,BMW,5 Series 520D M SPOR...,41 Lakhs,Delhi,"18,000 Kms",Diesel,Sedan,1st Owner
+731,2016,Hyundai,I20(2015_2017) MAGNA...,6.25 Lakhs,Delhi,"52,000 Kms",Petrol,Hatchback,1st Owner
+732,2010,Hyundai,I10  SPORTZ 1.2 AT,2.75 Lakhs,Noida,"70,000 Kms",Petrol,Hatchback,2nd Owner
+733,2009,Hyundai,I10  ERA,1.95 Lakhs,Noida,"70,000 Kms",Petrol,Hatchback,1st Owner
+734,2016,Mahindra,E2o  T2,4.5 Lakhs,Delhi,"15,000 Kms",Electric,Hatchback,1st Owner
+735,2014,Maruti Suzuki,Alto K10  LXI,2.5 Lakhs,Delhi,"48,000 Kms","Petrol
+                                        +  CNG Kit",Hatchback,2nd Owner
+736,2013,Mercedes Benz,C Class C 220 CDI CL...,12 Lakhs,Delhi,"61,000 Kms",Diesel,Sedan,3rd Owner
+737,2013,Nissan,Sunny  XL PETROL,3.45 Lakhs,Delhi,"62,000 Kms",Petrol,Sedan,1st Owner
+738,2012,Toyota,Fortuner  3.0 AT 4X2,11.75 Lakhs,Delhi,"88,000 Kms",Diesel,SUV,1st Owner
+739,2008,Honda,Civic  1.8 S MT,2.35 Lakhs,Delhi,"62,000 Kms",Petrol,Sedan,1st Owner
+740,2010,Toyota,Corolla Altis  1.8 G,3.65 Lakhs,Delhi,"42,000 Kms",Petrol,Sedan,1st Owner
+741,2012,Maruti Suzuki,Swift Dzire  LDI,2.95 Lakhs,Noida,"40,000 Kms",Diesel,Sedan,2nd Owner
+742,2009,Toyota,Corolla Altis  1.8 G,2.75 Lakhs,Noida,"78,000 Kms",Petrol,Sedan,1st Owner
+743,2009,Honda,City  1.5 S MT,2.75 Lakhs,Delhi,"70,000 Kms",Petrol,Sedan,1st Owner
+744,2011,Maruti Suzuki,Swift Dzire LXI 1.2 ...,2.9 Lakhs,Gurgaon,"55,000 Kms",Petrol,Sedan,1st Owner
+745,2014,Hyundai,Grand I10 SPORTZ AT ...,4.5 Lakhs,Delhi,"46,664 Kms",Petrol,Hatchback,1st Owner
+746,2006,Maruti Suzuki,Esteem  LXI BS III,"90,000",Delhi,"86,000 Kms",Petrol,Sedan,1st Owner
+747,2006,Maruti Suzuki,Esteem  LXI BS III,"90,000",Ghaziabad,"86,000 Kms",Petrol,Sedan,1st Owner
+748,2014,BMW,X5 XDRIVE 30D M SPOR...,28 Lakhs,Gurgaon,"73,000 Kms",Diesel,SUV,2nd Owner
+749,2016,Volkswagen,Polo 1.5 TDI TREND L...,4.45 Lakhs,Gurgaon,1.15 Lakhs Kms,Diesel,Hatchback,1st Owner
+750,2011,Volkswagen,Vento HIGHLINE 1.6 P...,2.75 Lakhs,Gurgaon,1.25 Lakhs Kms,Petrol,Sedan,1st Owner
+751,2011,Honda,City  1.5 V MT,3.75 Lakhs,Delhi,"59,000 Kms",Petrol,Sedan,2nd Owner
+752,2010,Hyundai,Sonata Transform 2.0...,3 Lakhs,Delhi,"72,558 Kms",Diesel,Sedan,1st Owner
+753,2010,Hyundai,Sonata Transform 2.0...,3 Lakhs,Ghaziabad,"72,558 Kms",Diesel,Sedan,1st Owner
+754,2014,Volkswagen,Polo COMFORTLINE 1.2...,4 Lakhs,Delhi,"20,000 Kms",Petrol,Hatchback,1st Owner
+755,2014,Maruti Suzuki,Ciaz  VDI MT SHVS,4.95 Lakhs,Delhi,"95,000 Kms",Diesel,Sedan,2nd Owner
+756,2012,Hyundai,Santro Xing  GL,1.85 Lakhs,Delhi,"45,600 Kms",Petrol,Hatchback,1st Owner
+757,2011,Maruti Suzuki,Ritz  LDI BS IV,1.85 Lakhs,Delhi,"84,000 Kms",Diesel,Hatchback,2nd Owner
+758,2008,Honda,City  1.5 S MT,2.25 Lakhs,Delhi,1.22 Lakhs Kms,Petrol,Sedan,2nd Owner
+759,2008,Hyundai,I10  ERA,1.65 Lakhs,Delhi,"77,000 Kms",Petrol,Hatchback,2nd Owner
+760,2017,Honda,City  VX CVT PETROL,8.95 Lakhs,Delhi,"50,000 Kms",Petrol,Sedan,1st Owner
+761,2012,Maruti Suzuki,Wagon R 1.0  VXI,2.95 Lakhs,Noida,"50,000 Kms",Petrol,Hatchback,1st Owner
+762,2013,Hyundai,I10  MAGNA 1.1 IRDE2,3.25 Lakhs,Noida,"80,780 Kms",Petrol,Hatchback,2nd Owner
+763,2011,Volkswagen,Polo TRENDLINE 1.2L ...,2.75 Lakhs,Delhi,"50,000 Kms",Petrol,Hatchback,1st Owner
+764,2010,Hyundai,I10  ERA,2.75 Lakhs,Noida,"40,000 Kms",Petrol,Hatchback,2nd Owner
+765,2011,Toyota,Fortuner 3.0 LIMITED...,8.9 Lakhs,Faridabad,1.9 Lakhs Kms,Diesel,SUV,1st Owner
+766,2010,Honda,Accord  2.4 AT,3.95 Lakhs,Faridabad,"95,000 Kms",Petrol,Sedan,2nd Owner
+767,2010,Ford,Figo DURATEC TITANIU...,2.15 Lakhs,Noida,"54,000 Kms",Petrol,Hatchback,2nd Owner
+768,2008,Maruti Suzuki,Sx4  ZXI,2.45 Lakhs,Noida,"65,000 Kms",Petrol,Sedan,1st Owner
+769,2007,Honda,Accord  2.4 VTI L MT,2.1 Lakhs,Faridabad,"55,000 Kms",Petrol,Sedan,2nd Owner
+770,2010,Chevrolet,Beat  LS PETROL,1.85 Lakhs,Faridabad,"40,312 Kms",Petrol,Hatchback,1st Owner
+771,2010,Chevrolet,Beat  LS PETROL,1.85 Lakhs,Faridabad,"40,312 Kms",Petrol,Hatchback,1st Owner
+772,2009,Maruti Suzuki,Sx4  VXI,2.35 Lakhs,Delhi,"73,246 Kms",Petrol,Sedan,2nd Owner
+773,2011,Tata,Indica Vista AQUA TD...,"45,000",Faridabad,1.22 Lakhs Kms,Diesel,Hatchback,1st Owner
+774,2011,Hyundai,I10  MAGNA 1.2,2.35 Lakhs,Gurgaon,"79,862 Kms",Petrol,Hatchback,1st Owner
+775,2006,Honda,City Zx  EXI,"85,000",Faridabad,"83,000 Kms",Petrol,Sedan,1st Owner
+776,2010,Maruti Suzuki,Wagon R 1.0  VXI,1.85 Lakhs,Delhi,"37,706 Kms",Petrol,Hatchback,1st Owner
+777,2010,Honda,City  1.5 V MT,3.8 Lakhs,Gurgaon,"96,487 Kms",Petrol,Sedan,2nd Owner
+778,2013,Mercedes Benz,E Class E 220 CDI SP...,10.95 Lakhs,Gurgaon,"73,000 Kms",Diesel,Sedan,2nd Owner
+779,2011,Land Rover,Freelander 2 STERLIN...,12.95 Lakhs,Gurgaon,"71,000 Kms",Diesel,SUV,2nd Owner
+780,2011,Hyundai,Santro Xing  GL,2.1 Lakhs,Gurgaon,"54,850 Kms",Petrol,Hatchback,1st Owner
+781,2011,Chevrolet,Cruze  LT,3 Lakhs,Ghaziabad,"55,982 Kms",Diesel,Sedan,1st Owner
+782,2013,Hyundai,I20  SPORTZ 1.2 O,3.35 Lakhs,Noida,1.11 Lakhs Kms,Petrol,Hatchback,1st Owner
+783,2010,Maruti Suzuki,Wagon R  LXI MINOR,1.78 Lakhs,Gurgaon,"79,230 Kms",Petrol,Hatchback,1st Owner
+784,2015,Toyota,Corolla Altis 1.8 VL...,9.85 Lakhs,Delhi,"71,000 Kms",Petrol,Sedan,1st Owner
+785,2010,Hyundai,I20  SPORTZ 1.2 O,2.85 Lakhs,Noida,"49,616 Kms",Petrol,Hatchback,1st Owner
+786,2017,Maruti Suzuki,Wagon R 1.0 LXI CNG ...,4.15 Lakhs,Noida,"46,000 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+787,2013,Maruti Suzuki,Ertiga  VDI,3.7 Lakhs,Faridabad,"95,948 Kms",Diesel,MUV,1st Owner
+788,2009,Maruti Suzuki,Swift Dzire  LXI,2.25 Lakhs,Gurgaon,"56,967 Kms",Petrol,Sedan,1st Owner
+789,2010,Volkswagen,Polo HIGHLINE1.2L PE...,2.25 Lakhs,Gurgaon,"73,297 Kms",Petrol,Hatchback,1st Owner
+790,2012,Skoda,Superb ELEGANCE 1.8 ...,3.95 Lakhs,Delhi,"60,000 Kms",Petrol,Sedan,1st Owner
+791,2014,Maruti Suzuki,Celerio  ZXI MT,2.75 Lakhs,Delhi,"63,000 Kms",Petrol,Hatchback,2nd Owner
+792,2011,Maruti Suzuki,Alto  LXI CNG,1.2 Lakhs,Faridabad,"86,365 Kms","CNG
+                                        +  CNG Kit",Hatchback,3rd Owner
+793,2008,Hyundai,I10  ERA,1.65 Lakhs,Delhi,"82,000 Kms",Petrol,Hatchback,1st Owner
+794,2019,Toyota,Etios Liva  V,5 Lakhs,Faridabad,"26,008 Kms",Petrol,Hatchback,1st Owner
+795,2011,Hyundai,Santro Xing  GLS,2.05 Lakhs,Faridabad,"81,334 Kms",Petrol,Hatchback,1st Owner
+796,2010,Hyundai,I10  MAGNA 1.1 IRDE2,1.75 Lakhs,Faridabad,"81,594 Kms",Petrol,Hatchback,1st Owner
+797,2010,Hyundai,I10  MAGNA 1.1 IRDE2,1.75 Lakhs,Faridabad,"81,594 Kms",Petrol,Hatchback,2nd Owner
+798,2009,Maruti Suzuki,Swift Dzire  VXI,1.95 Lakhs,Faridabad,"85,378 Kms",Petrol,Sedan,1st Owner
+799,2009,Maruti Suzuki,Swift Dzire  VXI,1.95 Lakhs,Faridabad,"85,378 Kms",Petrol,Sedan,1st Owner
+800,2013,Maruti Suzuki,Ritz  VDI BS IV,2.95 Lakhs,Faridabad,"63,289 Kms",Diesel,Hatchback,2nd Owner
+801,2007,Hyundai,Santro Xing  XE,1.2 Lakhs,Gurgaon,"88,000 Kms",Petrol,Hatchback,2nd Owner
+802,2007,Chevrolet,Aveo U Va  1.2,1.05 Lakhs,Gurgaon,"59,107 Kms",Petrol,Hatchback,1st Owner
+803,2011,Volkswagen,Vento HIGHLINE PETRO...,3.8 Lakhs,Gurgaon,"89,339 Kms",Petrol,Sedan,1st Owner
+804,2011,Chevrolet,Beat  LS PETROL,1.8 Lakhs,Gurgaon,"68,464 Kms",Petrol,Hatchback,1st Owner
+805,2015,Renault,Kwid  RXT,2.35 Lakhs,Delhi,"60,000 Kms",Petrol,Hatchback,1st Owner
+806,2011,Hyundai,Santro Xing  GL,1.85 Lakhs,Faridabad,"81,334 Kms",Petrol,Hatchback,1st Owner
+807,2011,Volkswagen,Polo COMFORTLINE 1.2...,2.95 Lakhs,Noida,"57,000 Kms",Petrol,Hatchback,1st Owner
+808,2010,Hyundai,I20  MAGNA 1.2,2.65 Lakhs,Noida,"49,000 Kms",Petrol,Hatchback,1st Owner
+809,2010,Maruti Suzuki,Sx4  ZXI,2.35 Lakhs,Delhi,"44,960 Kms",Petrol,Sedan,3rd Owner
+810,2012,Maruti Suzuki,Alto K10  LXI,1.99 Lakhs,Gurgaon,"88,725 Kms",Petrol,Hatchback,2nd Owner
+811,2013,Honda,Brio  E MT,3.25 Lakhs,Ghaziabad,"52,536 Kms",Petrol,Hatchback,1st Owner
+812,2012,Maruti Suzuki,Swift Dzire  ZXI,3.85 Lakhs,Ghaziabad,"58,523 Kms",Petrol,Sedan,1st Owner
+813,2011,Toyota,Fortuner 3.0 LIMITED...,8.75 Lakhs,Gurgaon,1.44 Lakhs Kms,Diesel,SUV,1st Owner
+814,2009,Maruti Suzuki,Swift Dzire  VXI,2.65 Lakhs,Gurgaon,"41,900 Kms",Petrol,Sedan,1st Owner
+815,2007,Maruti Suzuki,Alto  LXI BS III,1.35 Lakhs,Gurgaon,"72,185 Kms",Petrol,Hatchback,1st Owner
+816,2012,Maruti Suzuki,Alto K10  LXI,2.25 Lakhs,Ghaziabad,"54,235 Kms",Petrol,Hatchback,1st Owner
+817,2010,Mercedes Benz,C Class 200 CGI AVAN...,6.85 Lakhs,Gurgaon,"93,080 Kms",Petrol,Sedan,3rd Owner
+818,2017,Hyundai,I20  SPORTZ 1.2 O,5.75 Lakhs,Ghaziabad,"28,978 Kms",Petrol,Hatchback,1st Owner
+819,2011,Ford,Figo  LXI DURATEC 1.2,2.25 Lakhs,Noida,"65,000 Kms",Petrol,Hatchback,1st Owner
+820,2015,Audi,Q3  35 TDI PREMIUM,23.5 Lakhs,Ghaziabad,"12,692 Kms",Diesel,SUV,1st Owner
+821,2011,Hyundai,I10 SPORTZ 1.2 KAPPA...,2.75 Lakhs,Ghaziabad,"41,000 Kms",Petrol,Hatchback,2nd Owner
+822,2017,Maruti Suzuki,Wagon R 1.0  LXI,3.75 Lakhs,Ghaziabad,"51,005 Kms",Petrol,Hatchback,1st Owner
+823,2016,Maruti Suzuki,Celerio  VXI AT,4.25 Lakhs,Ghaziabad,"34,523 Kms",Petrol,Hatchback,1st Owner
+824,2010,Hyundai,I10  ERA,2.1 Lakhs,Ghaziabad,"81,852 Kms",Petrol,Hatchback,2nd Owner
+825,2015,Volvo,Xc90 INSCRIPTION LUX...,42 Lakhs,Gurgaon,"42,960 Kms",Diesel,SUV,1st Owner
+826,2017,BMW,X3  XDRIVE 30 D,33 Lakhs,Gurgaon,"28,777 Kms",Diesel,SUV,1st Owner
+827,2013,Maruti Suzuki,Ritz  VDI BS IV,2.95 Lakhs,Faridabad,"63,000 Kms",Diesel,Hatchback,2nd Owner
+828,2012,Skoda,Rapid AMBITION 1.6 T...,2.95 Lakhs,Delhi,"69,345 Kms",Diesel,Sedan,1st Owner
+829,2010,Volkswagen,Polo TRENDLINE 1.2L ...,2.35 Lakhs,Gurgaon,"72,004 Kms",Petrol,Hatchback,1st Owner
+830,2008,Chevrolet,Spark  LT 1.0,1.45 Lakhs,Noida,"50,000 Kms",Petrol,Hatchback,1st Owner
+831,2016,Honda,Jazz  1.2 SVMT,5.25 Lakhs,Ghaziabad,"66,257 Kms","Petrol
+                                        +  CNG Kit",Hatchback,1st Owner
+832,2011,Maruti Suzuki,Ritz  ZXI BS IV,3.15 Lakhs,Noida,"83,192 Kms",Petrol,Hatchback,1st Owner
+833,2011,Honda,Accord  2.4 MT,4.85 Lakhs,Delhi,"70,000 Kms",Petrol,Sedan,2nd Owner
+834,2015,Honda,Amaze  1.2 SMT I VTEC,4.5 Lakhs,Delhi,"20,000 Kms",Petrol,Sedan,1st Owner
+835,2007,Ford,Ikon  1.3 FLAIR,1.1 Lakhs,Gurgaon,"2,373 Kms",Petrol,Sedan,2nd Owner
+836,2015,Mahindra,Scorpio S10 2WD INTE...,8.75 Lakhs,Gurgaon,1 Lakhs Kms,Diesel,SUV,2nd Owner
+837,2010,Maruti Suzuki,Wagon R 1.0  LXI,1.9 Lakhs,Gurgaon,1.19 Lakhs Kms,Petrol,Hatchback,1st Owner
+838,2012,Toyota,Fortuner  3.0 4X4 MT,11.75 Lakhs,Delhi,1.29 Lakhs Kms,Diesel,SUV,2nd Owner
+839,2009,Maruti Suzuki,A Star  LXI,1.70 Lakhs,Faridabad,"61,792 Kms",Petrol,Hatchback,1st Owner
+840,2007,Maruti Suzuki,Sx4  ZXI,1.5 Lakhs,Delhi,"71,000 Kms",Petrol,Sedan,2nd Owner
+841,2014,Honda,City  SV MT PETROL,5.95 Lakhs,Ghaziabad,"48,523 Kms",Petrol,Sedan,1st Owner
+842,2011,Hyundai,I10  MAGNA 1.2,2.55 Lakhs,Noida,"65,000 Kms",Petrol,Hatchback,1st Owner
+843,2011,Hyundai,I10  MAGNA 1.1 IRDE2,2.75 Lakhs,Noida,"64,272 Kms",Petrol,Hatchback,1st Owner
+844,2011,Hyundai,I10  MAGNA 1.2,2.75 Lakhs,Noida,"58,000 Kms",Petrol,Hatchback,1st Owner
+845,2012,Ford,Fiesta Classic SXI 1...,2.1 Lakhs,Gurgaon,"89,103 Kms",Diesel,Sedan,1st Owner
+846,2012,Ford,Figo ZXI DURATORQ 1....,2.25 Lakhs,Gurgaon,"74,935 Kms",Diesel,Hatchback,1st Owner
+847,2011,Volkswagen,Vento HIGHLINE PETRO...,3.25 Lakhs,Gurgaon,"74,190 Kms",Petrol,Sedan,1st Owner
+848,2008,Chevrolet,Spark  1,1.45 Lakhs,Noida,"50,000 Kms",Petrol,Hatchback,1st Owner
+849,2011,Maruti Suzuki,Zen Estilo LXI CNG B...,2.37 Lakhs,Noida,"48,000 Kms","CNG
+                                        +  CNG Kit",Hatchback,1st Owner
+850,2014,Honda,City  VX CVT PETROL,6.5 Lakhs,Delhi,"69,630 Kms",Petrol,Sedan,2nd Owner
+851,2011,Maruti Suzuki,Zen Estilo  LXI BS IV,2.37 Lakhs,Noida,"48,000 Kms",Petrol,Hatchback,1st Owner
+852,2011,Toyota,Etios Liva  G,2.99 Lakhs,Noida,"65,000 Kms",Petrol,Hatchback,1st Owner
+853,2011,Ford,Figo  EXI DURATEC 1.2,2.35 Lakhs,Noida,"48,000 Kms",Petrol,Hatchback,1st Owner
+854,2011,Honda,Accord  2.4 AT,4.75 Lakhs,Delhi,"80,453 Kms",Petrol,Sedan,2nd Owner
+855,2020,Datsun,Redi Go  1.0 T O,3.55 Lakhs,Ghaziabad,"18,523 Kms",Petrol,Hatchback,1st Owner
+856,2010,Honda,Accord  2.4 MT,3.65 Lakhs,Delhi,"72,000 Kms",Petrol,Sedan,1st Owner
+857,2016,Hyundai,Creta 1.6 CRDI SX PL...,8.5 Lakhs,Delhi,"80,000 Kms",Diesel,CompactSUV,1st Owner
+858,2009,Maruti Suzuki,Swift Dzire  VXI,2.25 Lakhs,Gurgaon,1.32 Lakhs Kms,"Petrol
+                                        +  CNG Kit",Sedan,1st Owner
+859,2019,Maruti Suzuki,Baleno  ZETA AT 1.2,7.5 Lakhs,Faridabad,"23,346 Kms",Petrol,Hatchback,1st Owner
+860,2017,Toyota,Innova Crysta 2.8 GX...,13.55 Lakhs,Gurgaon,1.19 Lakhs Kms,Diesel,MPV,1st Owner
+861,2016,Renault,Kwid  RXT,3.55 Lakhs,Gurgaon,"39,957 Kms",Petrol,Hatchback,1st Owner
+862,2012,Renault,Pulse RX L AIR BAGS ...,1.95 Lakhs,Gurgaon,"72,136 Kms",Diesel,Hatchback,1st Owner
+863,2010,Mercedes Benz,E Class E250 CDI BLU...,7.9 Lakhs,Gurgaon,"70,599 Kms",Diesel,Sedan,1st Owner
+864,2009,Toyota,Corolla Altis 1.8 VL...,3.5 Lakhs,Delhi,1 Lakhs Kms,Petrol,Sedan,1st Owner
+865,2007,Hyundai,Accent  GLE,1.15 Lakhs,Gurgaon,"86,000 Kms",Petrol,Sedan,2nd Owner
+866,2015,Maruti Suzuki,Wagon R 1.0  LXI CNG,3.3 Lakhs,Faridabad,"97,543 Kms","CNG
+                                        +  CNG Kit",Hatchback,2nd Owner
+867,2012,Maruti Suzuki,Wagon R  LXI,2.3 Lakhs,Faridabad,"89,439 Kms","Petrol
+                                        +  CNG Kit",Hatchback,2nd Owner
+868,2010,Audi,Q7 35 TDI TECHNOLOGY...,12.85 Lakhs,Delhi,"73,000 Kms",Diesel,SUV,3rd Owner
+869,2011,Hyundai,Santro Xing  GL PLUS,2.25 Lakhs,Ghaziabad,"47,852 Kms",Petrol,Hatchback,1st Owner
+870,2011,Ford,Figo DURATEC TITANIU...,2.25 Lakhs,Noida,"36,000 Kms",Petrol,Hatchback,2nd Owner
+871,2016,Toyota,Corolla Altis 1.8 VL...,12 Lakhs,Delhi,3.5 Lakhs Kms,Petrol,Sedan,2nd Owner
+872,2011,Maruti Suzuki,Wagon R  LXI,2.25 Lakhs,Delhi,"73,800 Kms",Petrol,Hatchback,1st Owner
+873,2013,Volkswagen,Polo  GT TSI,4.35 Lakhs,Delhi,"56,125 Kms",Petrol,Hatchback,2nd Owner
+874,2009,Chevrolet,Spark  LS 1.0,1.35 Lakhs,Gurgaon,"45,514 Kms",Petrol,Hatchback,1st Owner
+875,2020,Mg,Hector SHARP 2.0 DIE...,18.5 Lakhs,Ghaziabad,"13,500 Kms",Diesel,SUV,1st Owner
+876,2009,Hyundai,I10  SPORTZ 1.2,1.5 Lakhs,Faridabad,"96,668 Kms",Petrol,Hatchback,2nd Owner
+877,2017,Jeep,Compass LIMITED O 2....,13.99 Lakhs,Ghaziabad,"34,310 Kms",Diesel,SUV,1st Owner
+878,2014,Skoda,Octavia ELEGANCE 1.8...,8.5 Lakhs,Delhi,"75,000 Kms",Petrol,Sedan,2nd Owner
+879,2011,Toyota,Etios Liva  G,2.99 Lakhs,Noida,"65,000 Kms",Petrol,Hatchback,1st Owner
+880,2011,Toyota,Etios Liva  G,,Noida,1 Lakhs Kms,Petrol,Hatchback,1st Owner
+881,2012,Honda,Accord  2.4 AT,6 Lakhs,Delhi,"50,000 Kms",Petrol,Sedan,2nd Owner
+882,2013,BMW,5 Series  520 D 2.0,15 Lakhs,Delhi,"60,000 Kms",Diesel,Sedan,1st Owner
+883,2012,Volkswagen,Jetta HIGHLINE TDI A...,4.25 Lakhs,Delhi,"95,000 Kms",Diesel,Sedan,2nd Owner
+884,2010,Maruti Suzuki,Wagon R  VXI MINOR,2.55 Lakhs,Noida,"65,000 Kms",Petrol,Hatchback,1st Owner
+885,2011,Hyundai,I10 SPORTZ 1.2 KAPPA...,2.75 Lakhs,Delhi,"38,831 Kms",Petrol,Hatchback,2nd Owner
+886,2011,Maruti Suzuki,Wagon R 1.0  VXI,2.95 Lakhs,Noida,"65,000 Kms",Petrol,Hatchback,1st Owner
+887,2013,Toyota,Corolla Altis DIESEL...,7 Lakhs,Delhi,"62,860 Kms",Diesel,Sedan,1st Owner
+888,2011,Chevrolet,Cruze  LT,3 Lakhs,Delhi,"55,982 Kms",Diesel,Sedan,2nd Owner
+889,2007,Honda,City Zx  EXI,2 Lakhs,Ghaziabad,1.05 Lakhs Kms,Petrol,Sedan,4th Owner
+890,2007,Honda,City Zx  EXI,1.8 Lakhs,Delhi,"78,000 Kms",Petrol,Sedan,4th Owner
+891,2010,Honda,City  1.5 V MT,2.85 Lakhs,Faridabad,"86,245 Kms",Petrol,Sedan,1st Owner
+892,2010,Honda,City 1.5 V MT EXCLUS...,2.84 Lakhs,Faridabad,"86,245 Kms",Petrol,Sedan,1st Owner
+893,2019,Maruti Suzuki,Vitara Brezza VDI AG...,8.25 Lakhs,Faridabad,"31,000 Kms",Diesel,SUV,1st Owner
+894,2018,Hyundai,Elite I20 MAGNA EXEC...,6 Lakhs,Faridabad,"62,000 Kms",Diesel,Hatchback,1st Owner
+895,2018,Tata,Tigor  REVOTRON XZA,5.85 Lakhs,Noida,"39,000 Kms",Petrol,Sedan,2nd Owner
+896,2014,Hyundai,I20  ASTA 1.2,5.4 Lakhs,Gurgaon,"52,000 Kms",Petrol,Hatchback,1st Owner
+897,2011,Ford,Figo  EXI DURATEC 1.2,1.78 Lakhs,Faridabad,"60,835 Kms",Petrol,Hatchback,2nd Owner
